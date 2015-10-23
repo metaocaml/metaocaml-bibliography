@@ -18,3 +18,6 @@
 * **The design and implementation of MetaOCaml** (FLOPS 2014)  
   ([paper](http://okmij.org/ftp/meta-programming/ber-design.pdf))  
   by Oleg Kiselyov
+
+
+Status of links at last commit: [![Build Status](https://travis-ci.org/yallop/metaocaml-bibliography.svg?branch=master)](https://travis-ci.org/yallop/metaocaml-bibliography)
