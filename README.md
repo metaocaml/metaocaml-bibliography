@@ -15,9 +15,12 @@
   ([paper](http://www.effective-modeling.org/p/publications/journal/gttse07.pdf))  
   by Walid Taha
 
+* **Finally tagless, partially evaluated: tagless staged interpreters for simpler typed languages** (JFP 19(5), 2009)  
+  ([paper](http://okmij.org/ftp/tagless-final/JFP.pdf))  
+  by Jacques Carette, Oleg Kiselyov and Chung-chieh Shan
+
 * **The design and implementation of MetaOCaml** (FLOPS 2014)  
   ([paper](http://okmij.org/ftp/meta-programming/ber-design.pdf))  
   by Oleg Kiselyov
-
 
 Status of links at last commit: [![Build Status](https://travis-ci.org/yallop/metaocaml-bibliography.svg?branch=master)](https://travis-ci.org/yallop/metaocaml-bibliography)
