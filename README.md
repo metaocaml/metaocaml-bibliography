@@ -11,6 +11,11 @@
   ([paper](http://www.cs.rice.edu/~taha/publications/journal/dspg04a.pdf))  
   by Walid Taha
 
+* **Multi-stage programming with functors and monads: eliminating abstraction overhead from generic code** (GPCE 2005, SCP 2011)  
+  ([GPCE 2005 paper](http://www.cas.mcmaster.ca/~carette/metamonads/metamonads.pdf))
+  ([SCP 2011 paper](http://www.cas.mcmaster.ca/~carette/publications/scp_metamonads.pdf))  
+  by Jacques Carette and Oleg Kiselyov
+
 * **A Gentle Introduction to Multi-stage Programming, Part II** (GTTSE 2007)  
   ([paper](http://www.effective-modeling.org/p/publications/journal/gttse07.pdf))  
   by Walid Taha
