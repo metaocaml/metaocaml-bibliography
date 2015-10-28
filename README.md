@@ -28,4 +28,8 @@
   ([paper](http://okmij.org/ftp/meta-programming/ber-design.pdf))  
   by Oleg Kiselyov
 
+* **Supercompiling with Staging** (META 2014)  
+  ([paper](http://googledrive.com/host/0B09qkc2kmu9-VS1mRVVGbl9aMHM/supercompiling-with-staging.pdf))  
+  by Jun Inoue
+
 Status of links at last commit: [![Build Status](https://travis-ci.org/yallop/metaocaml-bibliography.svg?branch=master)](https://travis-ci.org/yallop/metaocaml-bibliography)
