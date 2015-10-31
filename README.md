@@ -16,6 +16,10 @@
   ([SCP 2011 paper](http://www.cas.mcmaster.ca/~carette/publications/scp_metamonads.pdf))  
   by Jacques Carette and Oleg Kiselyov
 
+* **Gaussian Elimination: a case study in efficient genericity with MetaOCaml** (SCP 2006)  
+  ([paper](http://www.cas.mcmaster.ca/~carette/publications/ge.pdf))  
+  by Jacques Carette
+
 * **A Gentle Introduction to Multi-stage Programming, Part II** (GTTSE 2007)  
   ([paper](http://www.effective-modeling.org/p/publications/journal/gttse07.pdf))  
   by Walid Taha
