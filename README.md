@@ -7,6 +7,10 @@
   ([TCS 2000 paper](http://www.effective-modeling.org/p/publications/journal/tcs00.pdf))  
   by Walid Taha and Tim Sheard
 
+* **Implementing Multi-stage Languages Using ASTs, Gensym, and Reflection** (GPCE 2003)  
+  ([paper](http://www.cs.rice.edu/~taha/publications/conference/gpce03b.pdf))  
+  by Cristiano Calcagno, Walid Taha, Liwen Huang and Xavier Leroy
+
 * **A Gentle Introduction to Multi-stage Programming** (DSPG 2004)  
   ([paper](http://www.cs.rice.edu/~taha/publications/journal/dspg04a.pdf))  
   by Walid Taha
