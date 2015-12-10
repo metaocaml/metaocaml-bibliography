@@ -1,6 +1,6 @@
 ## MetaML and MetaOCaml bibliography
 
-[Pull requests](https://github.com/yallop/metaocaml-bibliography/pulls) welcome!  Note: end a line with two spaces to force a line break.
+Currently very incomplete.  [Pull requests](https://github.com/yallop/metaocaml-bibliography/pulls) welcome!  Note: end a line with two spaces to force a line break.
 
 * **Multi-Stage Programming with Explicit Annotations** (PEPM 1997, TCS 2000)  
   ([PEPM 1997 paper](http://www.effective-modeling.org/p/publications/conference/pepm97.pdf))
