@@ -40,4 +40,16 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
   ([paper](http://googledrive.com/host/0B09qkc2kmu9-VS1mRVVGbl9aMHM/supercompiling-with-staging.pdf))  
   by Jun Inoue
 
+* **Shifting the Stage: staging with delimited control** (JFP 2011)  
+  ([paper](http://homes.soic.indiana.edu/ccshan/metafx/S0956796811000256a.pdf))  
+  by Yukiyoshi Kameyama, Oleg Kiselyov and Chung-chieh Shan
+
+* **Staging Beyond Terms: Prospects and Challenges** (PEPM 2016)  
+  ([paper](http://logic.cs.tsukuba.ac.jp/~kam/paper/pepm2016b.pdf))  
+  by Jun Inoue, Oleg Kiselyov and Yukiyoshi Kameyama
+
+* **Shonan Challenge for Generative Programming** (PEPM 2013)  
+  ([paper](http://logic.cs.tsukuba.ac.jp/~kam/paper/pepm2013.pdf))  
+  by Baris Aktemur, Yukiyoshi Kameyama, Oleg Kiselyov and Chung-chieh Shan
+
 Status of links at last commit: [![Build Status](https://travis-ci.org/metaocaml/metaocaml-bibliography.svg?branch=master)](https://travis-ci.org/metaocaml/metaocaml-bibliography)
