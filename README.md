@@ -2,6 +2,12 @@
 
 Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaocaml-bibliography/pulls) welcome!  Note: end a line with two spaces to force a line break.
 
+#### 2017
+
+* **Stream Fusion, to Completeness** (POPL 2017)  
+  ([paper](https://github.com/strymonas/strymonas.github.io/raw/master/strymonas.pdf))  
+  by Oleg Kiselyov, Aggelos Biboudis, Nick Palladinos and Yannis Smaragdakis
+
 #### 2016
 
 * **Staging Beyond Terms: Prospects and Challenges** (PEPM 2016)  
