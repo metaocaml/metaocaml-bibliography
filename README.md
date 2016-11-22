@@ -10,6 +10,9 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
 
 #### 2016
 
+* **Reasoning about multi-stage programs** (JFP 2016)  
+  by Jun Inoue and Walid Taha
+
 * **Staging Beyond Terms: Prospects and Challenges** (PEPM 2016)  
   ([paper](http://logic.cs.tsukuba.ac.jp/~kam/paper/pepm2016b.pdf))  
   by Jun Inoue, Oleg Kiselyov and Yukiyoshi Kameyama
