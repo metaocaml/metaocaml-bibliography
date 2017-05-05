@@ -4,6 +4,10 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
 
 #### 2017
 
+* **Staged generic programming** (ICFP 2017)  
+  ([paper](https://www.cl.cam.ac.uk/~jdy22/papers/staged-generic-programming.pdf))  
+  by Jeremy Yallop
+
 * **Stream Fusion, to Completeness** (POPL 2017)  
   ([paper](https://github.com/strymonas/strymonas.github.io/raw/master/strymonas.pdf))  
   by Oleg Kiselyov, Aggelos Biboudis, Nick Palladinos and Yannis Smaragdakis
@@ -25,6 +29,14 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
   ([paper](http://www.is.ocha.ac.jp/~asai/papers/pepm16.pdf))  
   by Kenichi Asai
 
+* **Generic partially-static data** (TyDe 2016)  
+  ([extended abstract](https://www.cl.cam.ac.uk/~jdy22/papers/generic-partially-static-data.pdf))  
+  by David Kaloper-Meršinjak and Jeremy Yallop
+
+* **Staging generic programming** (PEPM 2016)  
+  ([paper](https://www.cl.cam.ac.uk/~jdy22/papers/staging-generic-programming.pdf))  
+  by Jeremy Yallop
+
 #### 2014
 
 * **The design and implementation of MetaOCaml** (FLOPS 2014)  
@@ -37,6 +49,10 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
 * **Supercompiling with Staging** (META 2014)  
   ([paper](http://meta2014.pereslavl.ru/papers/2014_Inoue__Supercompiling_with_Staging.pdf))  
   by Jun Inoue
+
+* **Modular macros** (OCaml 2015)  
+  ([extended abstract](https://www.cl.cam.ac.uk/~jdy22/papers/modular-macros.pdf))  
+  by Jeremy Yallop and Leo White
 
 #### 2013
 
