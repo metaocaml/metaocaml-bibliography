@@ -35,7 +35,7 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
   by Kenichi Asai
 
 * **Supercompiling with Staging** (META 2014)  
-  ([paper](http://googledrive.com/host/0B09qkc2kmu9-VS1mRVVGbl9aMHM/supercompiling-with-staging.pdf))  
+  ([paper](http://meta2014.pereslavl.ru/papers/2014_Inoue__Supercompiling_with_Staging.pdf))  
   by Jun Inoue
 
 #### 2013
