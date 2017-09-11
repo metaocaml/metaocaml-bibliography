@@ -8,6 +8,10 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
   ([paper](https://www.cl.cam.ac.uk/~jdy22/papers/staged-generic-programming.pdf))  
   by Jeremy Yallop
 
+* **Refining Semantics for Multi-Stage Programming** (GPCE 2017)  
+  ([paper](http://www.cs.ubc.ca/~rxg/17-gpce-ge-garcia.pdf))  
+  by Rui Ge and Ronald Garcia
+
 * **Stream Fusion, to Completeness** (POPL 2017)  
   ([paper](https://github.com/strymonas/strymonas.github.io/raw/master/strymonas.pdf))  
   by Oleg Kiselyov, Aggelos Biboudis, Nick Palladinos and Yannis Smaragdakis
