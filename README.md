@@ -72,6 +72,10 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
 
 #### 2011
 
+* **Generative Geometric Kernel** (PEPM 2011)  
+   ([paper](http://www.cas.mcmaster.ca/~carette/publications/pepm28p-carette.pdf))  
+   by Jacques Carette, Mustafa Elsheikh and Spencer Smith
+
 * **Multi-stage programming with functors and monads: eliminating abstraction overhead from generic code** (GPCE 2005, SCP 2011)  
   ([GPCE 2005 paper](http://www.cas.mcmaster.ca/~carette/metamonads/metamonads.pdf))
   ([SCP 2011 paper](http://www.cas.mcmaster.ca/~carette/publications/scp_metamonads.pdf))  
