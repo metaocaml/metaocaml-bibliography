@@ -139,6 +139,10 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
 
 #### 2003
 
+* **Closed Types for a Safe Imperative MetaML** (JFP 2003)  
+   ([paper](https://www.researchgate.net/profile/Tim_Sheard-PSU/publication/220676527_Closed_Types_for_a_Safe_Imperative_MetaML/links/00b7d52a0bb1196860000000/Closed-Types-for-a-Safe-Imperative-MetaML.pdf))  
+   by Cristiano Calcagno, Eugenio Moggi and Tim Sheard
+
 * **Implementing Multi-stage Languages Using ASTs, Gensym, and Reflection** (GPCE 2003)  
   ([paper](http://web.archive.org/web/20170706102104/http://www.cs.rice.edu/~taha/publications/conference/gpce03b.pdf))  
   by Cristiano Calcagno, Walid Taha, Liwen Huang and Xavier Leroy
