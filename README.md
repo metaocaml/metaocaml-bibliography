@@ -2,6 +2,13 @@
 
 Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaocaml-bibliography/pulls) welcome!  Note: end a line with two spaces to force a line break.
 
+#### 2018
+
+* **Partially static data as free extension of algebras (short paper)** (PEPM 2018)  
+  ([paper](https://www.cl.cam.ac.uk/~jdy22/papers/partially-static-data-as-free-extension-of-algebras.pdf))  
+  by Jeremy Yallop, Tamara von Glehn and Ohad Kammar
+
+
 #### 2017
 
 * **Staged generic programming** (ICFP 2017)  
