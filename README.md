@@ -222,7 +222,7 @@ ramming 1998)
 
 * **Multi-Stage Programming** (poster at ICFP 1997)  
   by Walid Taha and Tim Sheard
-https://dl.acm.org/citation.cfm?doid=258948.258990
+
 
 
 
