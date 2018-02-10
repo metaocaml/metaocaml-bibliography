@@ -121,6 +121,9 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
 
 #### 2004
 
+* **Binding-Time Analysis for MetaML via Type Inference and Constraint Solving** (TACAS 2004)  
+  by Nathan Linger and Tim Sheard
+
 * **DSL Implementation in MetaOCaml, Template Haskell, and C++** (DSPG 2004)  
   ([paper](https://www.researchgate.net/profile/Walid_Taha2/publication/221025927_DSL_implementation_in_MetaOCaml_template_Haskell_and_C/links/0a85e532b4d3e872b1000000.pdf))  
   by Krzysztof Czarnecki, John O’Donnell, Jörg Striegnitz and Walid Taha
@@ -163,6 +166,14 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
 
 #### 2001
 
+* **Accomplishments and Research Challenges in Meta-prgoramming** (SAIG 2001)  
+  ([paper](http://link.springer.com/content/pdf/10.1007/3-540-44806-3_2.pdf))  
+  by Tim Sheard
+
+* **Dynamically Adaptable Software with Metacomputations in a Staged Language** (SAIG 2001)  
+  ([paper](https://pdfs.semanticscholar.org/c8ad/fe1ddcecb2f846901ad5b3e6c9bd1654051c.pdf))  
+  by William L. Harrison and Tim Sheard
+
 * **Macros as Multi-Stage Computations** (ICFP 2001)  
   ([paper](https://www.cs.indiana.edu/~sabry/papers/macroml.pdf))  
   by Steven E. Ganz, Amr Sabry and Walid Taha
@@ -170,7 +181,7 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
 #### 2000
 
 * **Multi-Stage Programming with Explicit Annotations** (PEPM 1997, TCS 2000)  
-  ([PEPM 1997 paper](http://web.cecs.pdx.edu/~sheard/course/AdvancedFP/2004/papers/PepmMulStg97.ps))
+  ([PEPM 1997 paper](http://web.cecs.pdx.edu/~sheard/course/AdvancedFP/2004/papers/PepmMulStg97.ps))  
   (TCS 2000)
   by Walid Taha and Tim Sheard
 
@@ -184,6 +195,10 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
 
 #### 1999
 
+* **DSL Implementation Using Staging and Monads** (DSL 1999)  
+  ([paper](https://www.usenix.org/events/dsl99/full_papers/sheard/sheard.pdf))  
+ by Tim Sheard, Zine-el-abidine Benaissa and Pasalic, Emir
+
 * **Logical Modalities and Multi-Stage Programming** (IMLA 1999)  
   ([paper](http://web.archive.org/web/20151231184930/http://www.effective-modeling.org/p/publications/conference/imla99.pdf))  
   by Zine-El-Abidine Benaissa, Eugenio Moggi, Walid Taha and Tim Sheard
@@ -194,8 +209,22 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
 
 #### 1998
 
+* **Using MetaML: A Staged Programming Language** (Advanced Functional Prog
+ramming 1998)  
+  ([paper](https://courses.cs.washington.edu/courses/cse590p/01sp/using-meta-ml.pdf))  
+  by Tim Sheard
+
 * **Multi-Stage Programming: Axiomatization and Type-Safety** (ICALP 1998)  
   ([paper](http://digitalcommons.ohsu.edu/cgi/viewcontent.cgi?article=1095&context=csetech))  
   by Walid Taha, Zine-El-Abidine Benaissa and Tim Sheard
 
+#### 1997
+
+* **Multi-Stage Programming** (poster at ICFP 1997)  
+  by Walid Taha and Tim Sheard
+https://dl.acm.org/citation.cfm?doid=258948.258990
+
+
+
 Status of links at last commit: [![Build Status](https://travis-ci.org/metaocaml/metaocaml-bibliography.svg?branch=master)](https://travis-ci.org/metaocaml/metaocaml-bibliography)
+
