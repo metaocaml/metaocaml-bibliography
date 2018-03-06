@@ -4,6 +4,10 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
 
 #### 2018
 
+* **Program Generation for ML Modules (short paper)** (PEPM 2018)  
+  ([paper](http://www.cs.tsukuba.ac.jp/~kam/papers/pepm2018.pdf))  
+  by Takahisa Watanabe and Yukiyoshi Kameyama
+
 * **Partially static data as free extension of algebras (short paper)** (PEPM 2018)  
   ([paper](https://www.cl.cam.ac.uk/~jdy22/papers/partially-static-data-as-free-extension-of-algebras.pdf))  
   by Jeremy Yallop, Tamara von Glehn and Ohad Kammar
