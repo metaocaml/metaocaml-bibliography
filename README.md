@@ -29,6 +29,10 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
 
 #### 2016
 
+* **Refined Environment Classifiers: Type- and Scope-safe Code Generation with Mutable Cells** (APLAS 2016)  
+  ([paper](http://okmij.org/ftp/tagless-final/TaglessStaged/master.pdf))  
+  by Oleg Kiselyov, Yukiyoshi Kameyama and Yuto Sudo
+
 * **Reasoning about multi-stage programs** (JFP 2016)  
   by Jun Inoue and Walid Taha
 
