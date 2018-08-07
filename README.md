@@ -15,6 +15,10 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
 
 #### 2017
 
+* **Staging with Control: Type-Safe Multi-stage Programming with Control Operators** (GPCE 2017)  
+  ([paper](http://www.cs.tsukuba.ac.jp/~kam/papers/gpce2017.pdf))  
+  Junpei Oishi, Yukiyoshi Kameyama
+
 * **Staged generic programming** (ICFP 2017)  
   ([paper](https://www.cl.cam.ac.uk/~jdy22/papers/staged-generic-programming.pdf))  
   by Jeremy Yallop
