@@ -141,6 +141,7 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
 #### 2004
 
 * **Binding-Time Analysis for MetaML via Type Inference and Constraint Solving** (TACAS 2004)  
+  ([paper](https://pdfs.semanticscholar.org/9bc6/954a68e96ef09750b146879c4cf579aca206.pdf))  
   by Nathan Linger and Tim Sheard
 
 * **DSL Implementation in MetaOCaml, Template Haskell, and C++** (DSPG 2004)  
