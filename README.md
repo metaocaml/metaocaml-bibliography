@@ -64,6 +64,12 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
   ([paper](https://www.cl.cam.ac.uk/~jdy22/papers/staging-generic-programming.pdf))  
   by Jeremy Yallop
 
+#### 2015
+
+* **Program logics for homogeneous generative run-time meta-programming** (LMCS 2015)  
+  ([paper](https://lmcs.episciences.org/929/pdf))  
+  by Martin Berger and Laurence Tratt
+
 #### 2014
 
 * **The design and implementation of MetaOCaml** (FLOPS 2014)  
