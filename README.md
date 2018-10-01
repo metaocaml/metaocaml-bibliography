@@ -31,6 +31,10 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
   ([paper](https://github.com/strymonas/strymonas.github.io/raw/master/strymonas.pdf))  
   by Oleg Kiselyov, Aggelos Biboudis, Nick Palladinos and Yannis Smaragdakis
 
+* **Modelling Homogeneous Generative Meta-programming** (ECOOP 2017)  
+  ([paper](http://drops.dagstuhl.de/opus/volltexte/2017/7277/pdf/LIPIcs-ECOOP-2017-5.pdf))  
+  by Martin Berger, Laurence Tratt and Christian Urban
+
 #### 2016
 
 * **Refined Environment Classifiers: Type- and Scope-safe Code Generation with Mutable Cells** (APLAS 2016)  
@@ -59,6 +63,12 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
 * **Staging generic programming** (PEPM 2016)  
   ([paper](https://www.cl.cam.ac.uk/~jdy22/papers/staging-generic-programming.pdf))  
   by Jeremy Yallop
+
+#### 2015
+
+* **Program logics for homogeneous generative run-time meta-programming** (LMCS 2015)  
+  ([paper](https://lmcs.episciences.org/929/pdf))  
+  by Martin Berger and Laurence Tratt
 
 #### 2014
 
