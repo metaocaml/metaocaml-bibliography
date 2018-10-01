@@ -74,6 +74,10 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
   ([paper](https://lmcs.episciences.org/929/pdf))  
   by Martin Berger and Laurence Tratt
 
+* **Modular macros** (OCaml 2015)  
+  ([extended abstract](https://www.cl.cam.ac.uk/~jdy22/papers/modular-macros.pdf))  
+  by Jeremy Yallop and Leo White
+
 #### 2014
 
 * **The design and implementation of MetaOCaml** (FLOPS 2014)  
@@ -86,10 +90,6 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
 * **Supercompiling with Staging** (META 2014)  
   ([paper](http://meta2014.pereslavl.ru/papers/2014_Inoue__Supercompiling_with_Staging.pdf))  
   by Jun Inoue
-
-* **Modular macros** (OCaml 2015)  
-  ([extended abstract](https://www.cl.cam.ac.uk/~jdy22/papers/modular-macros.pdf))  
-  by Jeremy Yallop and Leo White
 
 #### 2013
 
