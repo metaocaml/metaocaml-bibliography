@@ -8,10 +8,10 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
   ([paper](http://www.cs.tsukuba.ac.jp/~kam/papers/pepm2018.pdf))  
   by Takahisa Watanabe and Yukiyoshi Kameyama
 
-* **Partially static data as free extension of algebras (short paper)** (PEPM 2018)  
-  ([paper](https://www.cl.cam.ac.uk/~jdy22/papers/partially-static-data-as-free-extension-of-algebras.pdf))  
+* **Partially static data as free extension of algebras** (PEPM 2018, ICFP 2018)  
+  ([short paper (PEPM)](https://www.cl.cam.ac.uk/~jdy22/papers/partially-static-data-as-free-extension-of-algebras-short-paper.pdf))
+  ([full paper (ICFP)](https://www.cl.cam.ac.uk/~jdy22/papers/partially-static-data-as-free-extension-of-algebras.pdf))  
   by Jeremy Yallop, Tamara von Glehn and Ohad Kammar
-
 
 #### 2017
 
