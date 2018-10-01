@@ -13,6 +13,10 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
   ([full paper (ICFP)](https://www.cl.cam.ac.uk/~jdy22/papers/partially-static-data-as-free-extension-of-algebras.pdf))  
   by Jeremy Yallop, Tamara von Glehn and Ohad Kammar
 
+* **Generating mutually recursive definitions (extended abstract)** (ML 2018)  
+  ([extended abstract](https://www.cl.cam.ac.uk/~jdy22/papers/generating-mutually-recursive-definitions.pdf))  
+  by Jeremy Yallop and Oleg Kiselyov
+
 #### 2017
 
 * **Staging with Control: Type-Safe Multi-stage Programming with Control Operators** (GPCE 2017)  
