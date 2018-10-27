@@ -4,6 +4,11 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
 
 #### 2018
 
+
+* **A Practical Unification of Multi-stage Programming and Macros** (GPCE 2018)  
+  ([paper](https://biboudis.github.io/papers/pcp-gpce18.pdf))  
+  by Nicolas Stucki, Aggelos Biboudis and Martin Odersky
+
 * **Program Generation for ML Modules (short paper)** (PEPM 2018)  
   ([paper](http://www.cs.tsukuba.ac.jp/~kam/papers/pepm2018.pdf))  
   by Takahisa Watanabe and Yukiyoshi Kameyama
