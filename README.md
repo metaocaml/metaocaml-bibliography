@@ -4,6 +4,9 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
 
 #### 2018
 
+* **Funcons for HGMP: the fundamental constructs of homogeneous generative meta-programming (short paper)** (GPCE 2018)  
+  ([paper](https://pure.royalholloway.ac.uk/portal/files/31169539/paper.pdf))  
+  by L. Thomas van Binsbergen
 
 * **A Practical Unification of Multi-stage Programming and Macros** (GPCE 2018)  
   ([paper](https://biboudis.github.io/papers/pcp-gpce18.pdf))  
