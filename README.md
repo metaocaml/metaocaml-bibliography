@@ -108,7 +108,7 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
 #### 2012
 
 * **Reasoning about Multi-Stage Programs** (ESOP 2012)  
-  ([paper](http://web.archive.org/web/20151231185532/http://www.effective-modeling.org/p/publications/conference/esop12.pdf))  
+  ([paper](https://github.com/maroneal/www/raw/master/publications/conference/esop12.pdf))  
   by Jun Inoue and Walid Taha
 
 #### 2011
@@ -171,7 +171,7 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
   by Krzysztof Czarnecki, John O’Donnell, Jörg Striegnitz and Walid Taha
 
 * **A Gentle Introduction to Multi-stage Programming** (DSPG 2004)  
-  ([paper](http://web.archive.org/web/20170804032218/http://www.cs.rice.edu/~taha/publications/journal/dspg04a.pdf))  
+  ([paper](https://github.com/maroneal/www/raw/master/publications/journal/dspg04a.pdf))  
   by Walid Taha
 
 * **A Methodology for Generating Verified Combinatorial Circuits** (EMSOFT 2004)  
@@ -189,7 +189,7 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
    by Cristiano Calcagno, Eugenio Moggi and Tim Sheard
 
 * **Implementing Multi-stage Languages Using ASTs, Gensym, and Reflection** (GPCE 2003)  
-  ([paper](http://web.archive.org/web/20170706102104/http://www.cs.rice.edu/~taha/publications/conference/gpce03b.pdf))  
+  ([paper](https://github.com/maroneal/www/raw/master/publications/conference/gpce03b.pdf))  
   by Cristiano Calcagno, Walid Taha, Liwen Huang and Xavier Leroy
 
 * **Staged Notational Definitions** (GPCE 2003)  
@@ -242,7 +242,7 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
  by Tim Sheard, Zine-el-abidine Benaissa and Pasalic, Emir
 
 * **Logical Modalities and Multi-Stage Programming** (IMLA 1999)  
-  ([paper](http://web.archive.org/web/20151231184930/http://www.effective-modeling.org/p/publications/conference/imla99.pdf))  
+  ([paper](https://github.com/maroneal/www/raw/master/publications/conference/imla99.pdf))  
   by Zine-El-Abidine Benaissa, Eugenio Moggi, Walid Taha and Tim Sheard
 
 * **Idealized MetaML: Simpler, and More Expressive** (ESOP 1999)  
