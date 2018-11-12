@@ -78,6 +78,10 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
 
 #### 2015
 
+* **IR-MetaOCaml : (re)implementing MetaOCaml** (Masters thesis)  
+  ([dissertation](https://open.library.ubc.ca/media/download/pdf/24/1.0166800/4)) ([code](https://github.com/zhenya1007/IR-MetaOCaml))  
+  by Evgeny Roubinchtein
+
 * **Program logics for homogeneous generative run-time meta-programming** (LMCS 2015)  
   ([paper](https://lmcs.episciences.org/929/pdf))  
   by Martin Berger and Laurence Tratt
