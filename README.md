@@ -145,6 +145,10 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
   ([paper](http://okmij.org/ftp/tagless-final/JFP.pdf))  
   by Jacques Carette, Oleg Kiselyov and Chung-chieh Shan
 
+* **A Logical Foundation for Environment Classifiers** (TLCA 2009)  
+  ([paper](http://www.fos.kuis.kyoto-u.ac.jp/~igarashi/papers/pdf/classifiers-TLCA09.pdf))  
+  by Takeshi Tsukada and Atsushi Igarashi
+
 #### 2007
 
 * **A Gentle Introduction to Multi-stage Programming, Part II** (GTTSE 2007)  
