@@ -31,6 +31,10 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
   ([paper](http://www.cs.tsukuba.ac.jp/~kam/papers/gpce2017.pdf))  
   Junpei Oishi, Yukiyoshi Kameyama
 
+* **Generating Code with Polymorphic let: A Ballad of Value Restriction, Copying and Sharing** (ML 2015 post-proceedings)  
+  ([paper](http://eptcs.web.cse.unsw.edu.au/paper.cgi?ML2015.1.pdf))  
+  Oleg Kiselyov
+
 * **Staged generic programming** (ICFP 2017)  
   ([paper](https://www.cl.cam.ac.uk/~jdy22/papers/staged-generic-programming.pdf))  
   by Jeremy Yallop
