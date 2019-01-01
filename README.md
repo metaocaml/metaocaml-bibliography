@@ -249,6 +249,10 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
 
 #### 1999
 
+* **Multi-Stage Programming: Its Theory and Applications** (1999)  
+  ([dissertation](http://www.cs.tufts.edu/~nr/cs257/archive/walid-taha/thesis.pdf))  
+  by Walid Taha
+
 * **DSL Implementation Using Staging and Monads** (DSL 1999)  
   ([paper](https://www.usenix.org/events/dsl99/full_papers/sheard/sheard.pdf))  
  by Tim Sheard, Zine-el-abidine Benaissa and Pasalic, Emir
