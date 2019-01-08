@@ -2,6 +2,12 @@
 
 Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaocaml-bibliography/pulls) welcome!  Note: end a line with two spaces to force a line break.
 
+#### 2019
+
+* **Generating mutually recursive definitions** (PEPM 2019)  
+  ([paper](https://www.cl.cam.ac.uk/~jdy22/papers/generating-mutually-recursive-definitions-short-paper.pdf))  
+  by Jeremy Yallop and Oleg Kiselyov
+
 #### 2018
 
 * **Funcons for HGMP: the fundamental constructs of homogeneous generative meta-programming (short paper)** (GPCE 2018)  
