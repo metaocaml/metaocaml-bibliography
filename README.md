@@ -71,7 +71,7 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
   by Jun Inoue, Oleg Kiselyov and Yukiyoshi Kameyama
 
 * **Automatic Staging via Partial Evaluation Techniques** (SCSS 2016)  
-  ([paper](http://easychair.org/publications/download/Automatic_Staging_via_Partial_Evaluation_Techniques))  
+  ([paper](http://www.cs.tsukuba.ac.jp/~kam/paper/scss2016.pdf))  
   by Kenichi Asai and Yukiyoshi Kameyama
 
 * **Toward Introducing Binding-Time Analysis to MetaOCaml** (PEPM 2016)  
