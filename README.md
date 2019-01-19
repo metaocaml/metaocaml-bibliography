@@ -106,6 +106,9 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
   ([paper](http://okmij.org/ftp/meta-programming/ber-design.pdf))  
   by Oleg Kiselyov
 
+* **On Cross-Stage Persistence in Multi-Stage Programming** (FLOPS 2014)  
+  by Yuichiro Hanada and Atsushi Igarashi
+
 * **Compiling a Reflective Language using MetaOCaml** (GPCE 2014)  
   by Kenichi Asai
 
