@@ -107,6 +107,7 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
   by Oleg Kiselyov
 
 * **On Cross-Stage Persistence in Multi-Stage Programming** (FLOPS 2014)  
+  ([paper](http://www.fos.kuis.kyoto-u.ac.jp/~igarashi/papers/pdf/csp-flops2014.pdf))  
   by Yuichiro Hanada and Atsushi Igarashi
 
 * **Compiling a Reflective Language using MetaOCaml** (GPCE 2014)  
