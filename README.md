@@ -282,7 +282,7 @@ ramming 1998)
   by Tim Sheard
 
 * **Multi-Stage Programming: Axiomatization and Type-Safety** (ICALP 1998)  
-  ([paper](http://digitalcommons.ohsu.edu/cgi/viewcontent.cgi?article=1095&context=csetech))  
+  ([paper](https://pdfs.semanticscholar.org/e6b9/c89f9d49e81b89cb15b988f1ade86f73ed63.pdf))  
   by Walid Taha, Zine-El-Abidine Benaissa and Tim Sheard
 
 #### 1997
