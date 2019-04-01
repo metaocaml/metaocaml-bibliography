@@ -167,6 +167,10 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
 
 #### 2006
 
+* **MetaOCaml Server Pages** (SCP 2006)  
+  ([paper](https://contrapunctus.net/league/research/papers/metaserv.pdf))  
+  by Christopher League
+
 * **Gaussian Elimination: a case study in efficient genericity with MetaOCaml** (SCP 2006)  
   ([paper](http://www.cas.mcmaster.ca/~carette/publications/ge.pdf))  
   by Jacques Carette
