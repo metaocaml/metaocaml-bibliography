@@ -120,6 +120,10 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
   ([paper](http://meta2014.pereslavl.ru/papers/2014_Inoue__Supercompiling_with_Staging.pdf))  
   by Jun Inoue
 
+* **Staging and High-Performance Computing: Theory and Practice** (NII Shonan 2014)  
+  ([report](http://shonan.nii.ac.jp/shonan/wp-content/uploads/2011/09/No.2014-7.pdf))  
+  by Oleg Kiselyov, Yukiyoshi Kameyama and Jeremy Siek
+
 #### 2013
 
 * **Shonan Challenge for Generative Programming** (PEPM 2013)  
