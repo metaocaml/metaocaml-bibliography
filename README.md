@@ -129,6 +129,10 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
   ([paper](https://github.com/maroneal/www/raw/master/publications/conference/esop12.pdf))  
   by Jun Inoue and Walid Taha
 
+* **Bridging the theory of staged programming languages and the practice of high-performance computing** (NII Shonan 2012)  
+  ([report](http://shonan.nii.ac.jp/shonan/wp-content/uploads/2011/09/No.2012-4.pdf))  
+  by Oleg Kiselyov, Chung-chieh Shan and Yukiyoshi Kameyama
+
 #### 2011
 
 * **Generative Geometric Kernel** (PEPM 2011)  
