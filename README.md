@@ -212,6 +212,10 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
   ([paper](https://www.researchgate.net/profile/Emir_Pasalic/publication/220989890_A_monadic_approach_for_avoiding_code_duplication_when_staging_memoized_functions/links/0912f5093cb595faeb000000.pdf))  
   by Kedar Swadi, Walid Taha, Oleg Kiselyov and Emir Pasalic
 
+* **Experiences with an object-oriented, multi-stage language**  
+  ([paper](https://core.ac.uk/download/pdf/82237301.pdf))  
+  by Gregory Neverov and Paul Roe
+
 #### 2005
 
 * **Towards a fully-reflective meta-programming language** (ACSC 2005)  
