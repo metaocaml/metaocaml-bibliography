@@ -167,6 +167,12 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
   ([paper](http://www.fos.kuis.kyoto-u.ac.jp/~igarashi/papers/pdf/classifiers-TLCA09.pdf))  
   by Takeshi Tsukada and Atsushi Igarashi
 
+#### 2008
+
+* **Functional Meta-programming for Parallel Skeletons** (ICCS, 2008)  
+  ([paper](https://link.springer.com/content/pdf/10.1007/978-3-540-69384-0_21.pdf))  
+  by Jocelyn Serot and Joel Falcou
+
 #### 2007
 
 * **A Gentle Introduction to Multi-stage Programming, Part II** (GTTSE 2007)  
