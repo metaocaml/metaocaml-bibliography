@@ -35,11 +35,11 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
 
 * **Staging with Control: Type-Safe Multi-stage Programming with Control Operators** (GPCE 2017)  
   ([paper](http://www.cs.tsukuba.ac.jp/~kam/papers/gpce2017.pdf))  
-  Junpei Oishi, Yukiyoshi Kameyama
+  by Junpei Oishi, Yukiyoshi Kameyama
 
 * **Generating Code with Polymorphic let: A Ballad of Value Restriction, Copying and Sharing** (ML 2015 post-proceedings)  
   ([paper](http://eptcs.web.cse.unsw.edu.au/paper.cgi?ML2015.1.pdf))  
-  Oleg Kiselyov
+  by Oleg Kiselyov
 
 * **Staged generic programming** (ICFP 2017)  
   ([paper](https://www.cl.cam.ac.uk/~jdy22/papers/staged-generic-programming.pdf))  
@@ -132,8 +132,8 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
 #### 2011
 
 * **Generative Geometric Kernel** (PEPM 2011)  
-   ([paper](http://www.cas.mcmaster.ca/~carette/publications/pepm28p-carette.pdf))  
-   by Jacques Carette, Mustafa Elsheikh and Spencer Smith
+  ([paper](http://www.cas.mcmaster.ca/~carette/publications/pepm28p-carette.pdf))  
+  by Jacques Carette, Mustafa Elsheikh and Spencer Smith
 
 * **Multi-stage programming with functors and monads: eliminating abstraction overhead from generic code** (GPCE 2005, SCP 2011)  
   ([GPCE 2005 paper](http://www.cas.mcmaster.ca/~carette/metamonads/metamonads.pdf))
@@ -265,7 +265,7 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
 
 * **DSL Implementation Using Staging and Monads** (DSL 1999)  
   ([paper](https://www.usenix.org/events/dsl99/full_papers/sheard/sheard.pdf))  
- by Tim Sheard, Zine-el-abidine Benaissa and Pasalic, Emir
+ by Tim Sheard, Zine-el-abidine Benaissa and Emir Pasalic
 
 * **Logical Modalities and Multi-Stage Programming** (IMLA 1999)  
   ([paper](https://github.com/maroneal/www/raw/master/publications/conference/imla99.pdf))  
