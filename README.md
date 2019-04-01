@@ -214,6 +214,10 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
 
 #### 2005
 
+* **Towards a fully-reflective meta-programming language** (ACSC 2005)  
+  ([paper](https://www.researchgate.net/publication/27482487_Towards_a_Fully-Reflective_Meta-Programming_Language/download))
+  by Gregory Neverov and Paul Roe
+
 * **Tuning MetaOCaml Programs for High Performance**  
   by Tobias Langhammer  
   ([thesis])(https://www.infosun.fim.uni-passau.de/cl/publications/docs/Langhammer.pdf)
