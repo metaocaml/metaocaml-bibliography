@@ -149,6 +149,10 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
 * **Multi-Stage Programming for High-Level Description of Circuit Families** (CISP 2010)  
   by Fulong Chen, Walid Taha and Lei Deng
 
+* **Mint: Java multi-stage programming using weak separability** (PLDI 2010)  
+  by Edwin Westbrook, Mathias Ricken, Jun Inoue, Yilong Yao, Tamer Abdelatif and Walid Taha  
+  ([paper](https://www.researchgate.net/publication/220752255_Mint_Java_Multi-stage_Programming_Using_Weak_Separability/download))
+
 #### 2009
 
 * **Finally tagless, partially evaluated: tagless staged interpreters for simpler typed languages** (JFP 19(5), 2009)  
