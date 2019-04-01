@@ -190,6 +190,10 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
   ([paper](https://userpages.uni-koblenz.de/~laemmel/gttse/2007/pdfs/52350274.pdf))  
   by Walid Taha
 
+* **Dependent open terms and the evaluation contexts that bind them** (Unpublished)  
+  ([extended abstract](http://okmij.org/ftp/meta-programming/open-term-binding-ctx.pdf))  
+  by Oleg Kiselyov and Chung-chieh Shan
+
 #### 2006
 
 * **MetaOCaml Server Pages** (SCP 2006)  
