@@ -164,6 +164,10 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
   ([thesis](https://pdfs.semanticscholar.org/d46b/12f86ce00b7117773a85fc9df902b853c0f6.pdf))  
   by Mustafa Elsheikh
 
+* **The MetaOCaml files: Status report and research proposal** (ML 2010)  
+  ([extended abstract](http://okmij.org/ftp/ML/metaocaml-files.pdf))  
+  by Oleg Kiselyov and Chung-chieh Shan
+
 #### 2009
 
 * **Finally tagless, partially evaluated: tagless staged interpreters for simpler typed languages** (JFP 19(5), 2009)  
