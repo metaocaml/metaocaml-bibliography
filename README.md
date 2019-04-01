@@ -100,6 +100,9 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
   ([extended abstract](https://www.cl.cam.ac.uk/~jdy22/papers/modular-macros.pdf))  
   by Jeremy Yallop and Leo White
 
+* **Generate and offshore: type-safe and modular code generation for low-level optimization**  
+  by Naoki Takashima, Hiroki Sakamoto and Yukiyoshi Kameyama
+
 #### 2014
 
 * **The design and implementation of MetaOCaml** (FLOPS 2014)  
@@ -137,6 +140,10 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
   by Yung-Bum Jung, Won-Chan Lee and Kwang-Keun Yi
 
 #### 2011
+
+* **Polymorphic multi-stage language with control effects** (APLAS 2011)  
+  ([paper](http://www.cs.tsukuba.ac.jp/~kam/paper/aplas2011.pdf))  
+  by Yuichiro Kokaji and Yukiyoshi Kameyama
 
 * **Generative Geometric Kernel** (PEPM 2011)  
   ([paper](http://www.cas.mcmaster.ca/~carette/publications/pepm28p-carette.pdf))  
@@ -185,6 +192,10 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
   by Jocelyn Serot and Joel Falcou
 
 #### 2007
+
+* **Concoqtion: indexed types now!** (PEPM 2007)  
+  ([paper](https://www.researchgate.net/profile/Jeremy_Siek/publication/213881769_Concoqtion_Indexed_Types_Now/links/0912f507f2204dc538000000.pdf))  
+  by Seth Fogarty, Emir Pasalic, Jeremy Siek and Walid Taha
 
 * **A Gentle Introduction to Multi-stage Programming, Part II** (GTTSE 2007)  
   ([paper](https://userpages.uni-koblenz.de/~laemmel/gttse/2007/pdfs/52350274.pdf))  
