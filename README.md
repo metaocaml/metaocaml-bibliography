@@ -181,6 +181,10 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
 
 #### 2005
 
+* **Tuning MetaOCaml Programs for High Performance**  
+  by Tobias Langhammer  
+  ([thesis])(https://www.infosun.fim.uni-passau.de/cl/publications/docs/Langhammer.pdf)
+
 * **Implicitly Heterogeneous Multi-Stage Programming** (GPCE 2005)  
   ([extended](https://www.researchgate.net/profile/Emir_Pasalic/publication/225698976_Implicitly_Heterogeneous_Multi-Stage_Programming/links/09e4150cbf60f21199000000/Implicitly-Heterogeneous-Multi-Stage-Programming.pdf))  
   by Jason Eckhardt, Roumen Kaiabachev, Emir Pasalic, Kedar Swadi and Walid Taha
