@@ -254,8 +254,12 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
   by Jason Eckhardt, Roumen Kaiabachev, Emir Pasalic, Kedar Swadi and Walid Taha
 
 * **Generating Message-Passing Programs from Abstract Specifications by Partial Evaluation** (PPL 2005)  
-  by Christoph A. Herrmann
   ([paper](https://www.researchgate.net/profile/Christoph_Herrmann7/publication/220439639/links/56f14b6208aec63f4c9b54c4/file.pdf))
+  by Christoph A. Herrmann
+
+* **Staging Dynamic Programming Algorithms** (Unpublished)  
+  ([paper](https://www.researchgate.net/profile/Walid_Taha2/publication/228634064_Staging_Dynamic_Programming_Algorithms/links/0a85e532b4d3c778a8000000.pdf))    
+  by Kedar Swadi, Walid Taha and Oleg Kiselyov
 
 #### 2004
 
