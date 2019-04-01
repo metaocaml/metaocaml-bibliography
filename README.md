@@ -133,6 +133,9 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
   ([report](http://shonan.nii.ac.jp/shonan/wp-content/uploads/2011/09/No.2012-4.pdf))  
   by Oleg Kiselyov, Chung-chieh Shan and Yukiyoshi Kameyama
 
+* **Type-directed Automatic Generation of Open Code Multi-Staged Programs** (Journal of KIISE 2012)  
+  by Yung-Bum Jung, Won-Chan Lee and Kwang-Keun Yi
+
 #### 2011
 
 * **Generative Geometric Kernel** (PEPM 2011)  
