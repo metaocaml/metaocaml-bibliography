@@ -157,6 +157,10 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
   by Edwin Westbrook, Mathias Ricken, Jun Inoue, Yilong Yao, Tamer Abdelatif and Walid Taha  
   ([paper](https://www.researchgate.net/publication/220752255_Mint_Java_Multi-stage_Programming_Using_Weak_Separability/download))
 
+* **A Generative Approach to Meshing Geometry** (McMaster University, 2010)  
+  ([thesis](https://pdfs.semanticscholar.org/d46b/12f86ce00b7117773a85fc9df902b853c0f6.pdf))  
+  by Mustafa Elsheikh
+
 #### 2009
 
 * **Finally tagless, partially evaluated: tagless staged interpreters for simpler typed languages** (JFP 19(5), 2009)  
