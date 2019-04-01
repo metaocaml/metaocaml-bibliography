@@ -181,6 +181,9 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
   ([extended](https://www.researchgate.net/profile/Emir_Pasalic/publication/225698976_Implicitly_Heterogeneous_Multi-Stage_Programming/links/09e4150cbf60f21199000000/Implicitly-Heterogeneous-Multi-Stage-Programming.pdf))  
   by Jason Eckhardt, Roumen Kaiabachev, Emir Pasalic, Kedar Swadi and Walid Taha
 
+* **Generating Message-Passing Programs from Abstract Specifications by Partial Evaluation** (PPL 2005)  
+  by Christoph A. Herrmann
+  ([paper](https://www.researchgate.net/profile/Christoph_Herrmann7/publication/220439639/links/56f14b6208aec63f4c9b54c4/file.pdf))
 
 #### 2004
 
