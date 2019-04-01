@@ -103,6 +103,10 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
 * **Generate and offshore: type-safe and modular code generation for low-level optimization**  
   by Naoki Takashima, Hiroki Sakamoto and Yukiyoshi Kameyama
 
+* **Combinators for Impure yet Hygienic Code Generation** (SCP 2015)  
+  ([paper](http://okmij.org/ftp/tagless-final/TaglessStaged/beyond.pdf))  
+  by Yukiyoshi Kameyama, Oleg Kiselyov and Chung-chieh Shan
+
 #### 2014
 
 * **The design and implementation of MetaOCaml** (FLOPS 2014)  
@@ -194,6 +198,10 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
 * **Functional Meta-programming for Parallel Skeletons** (ICCS, 2008)  
   ([paper](https://link.springer.com/content/pdf/10.1007/978-3-540-69384-0_21.pdf))  
   by Jocelyn Serot and Joel Falcou
+
+* **Closing the Stage: From Staged Code to Typed Closures** (PEPM 2008)  
+  ([paper](http://www.cs.tsukuba.ac.jp/~kam/papers/pepm66-kameyama.pdf))  
+  by Yukiyoshi Kameyama, Oleg Kiselyov and Chung-chieh Shan
 
 #### 2007
 
