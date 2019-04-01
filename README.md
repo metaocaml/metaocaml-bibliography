@@ -196,6 +196,10 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
   ([paper](http://www.cas.mcmaster.ca/~carette/publications/ge.pdf))  
   by Jacques Carette
 
+* **Combining Partial Evaluation and Staged Interpretation in the Implementation of Domain-Specific Languages** (SCP 2006)  
+  ([paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.87.2497&rep=rep1&type=pdf))  
+  by Christoph A. Herrmann and Tobias Langhammer
+
 * **A Monadic Approach for Avoiding Code Duplication** (PEPM 2006)  
   ([paper](https://www.researchgate.net/profile/Emir_Pasalic/publication/220989890_A_monadic_approach_for_avoiding_code_duplication_when_staging_memoized_functions/links/0912f5093cb595faeb000000.pdf))  
   by Kedar Swadi, Walid Taha, Oleg Kiselyov and Emir Pasalic
