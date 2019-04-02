@@ -64,6 +64,7 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
   by Oleg Kiselyov, Yukiyoshi Kameyama and Yuto Sudo
 
 * **Reasoning about multi-stage programs** (JFP 2016)  
+  ([paper](https://www.researchgate.net/publication/309751853_Reasoning_about_multi-stage_programs/download))  
   by Jun Inoue and Walid Taha
 
 * **Staging Beyond Terms: Prospects and Challenges** (PEPM 2016)  
@@ -356,8 +357,7 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
 
 #### 1998
 
-* **Using MetaML: A Staged Programming Language** (Advanced Functional Prog
-ramming 1998)  
+* **Using MetaML: A Staged Programming Language** (Advanced Functional Programming 1998)  
   ([paper](https://courses.cs.washington.edu/courses/cse590p/01sp/using-meta-ml.pdf))  
   by Tim Sheard
 
