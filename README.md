@@ -236,9 +236,13 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
   ([paper](https://www.researchgate.net/profile/Emir_Pasalic/publication/220989890_A_monadic_approach_for_avoiding_code_duplication_when_staging_memoized_functions/links/0912f5093cb595faeb000000.pdf))  
   by Kedar Swadi, Walid Taha, Oleg Kiselyov and Emir Pasalic
 
-* **Experiences with an object-oriented, multi-stage language**  
+* **Experiences with an object-oriented, multi-stage language** (SCP 2006)  
   ([paper](https://core.ac.uk/download/pdf/82237301.pdf))  
   by Gregory Neverov and Paul Roe
+
+* **In search of a program generator to implement generic transformations for high-performance computing** (SCP 2006)  
+  ([paper](https://core.ac.uk/download/pdf/82484798.pdf))  
+  by Albert Cohen, Sébastien Donadio, Maria-Jesus Garzaran, Christoph Herrmann, Oleg Kiselyov, David Paduac
 
 #### 2005
 
@@ -345,7 +349,7 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
 
 * **DSL Implementation Using Staging and Monads** (DSL 1999)  
   ([paper](https://www.usenix.org/events/dsl99/full_papers/sheard/sheard.pdf))  
- by Tim Sheard, Zine-el-abidine Benaissa and Emir Pasalic
+  by Tim Sheard, Zine-el-abidine Benaissa and Emir Pasalic
 
 * **Logical Modalities and Multi-Stage Programming** (IMLA 1999)  
   ([paper](https://github.com/maroneal/www/raw/master/publications/conference/imla99.pdf))  
