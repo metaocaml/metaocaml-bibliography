@@ -11,6 +11,10 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
 
 #### 2018
 
+* **Reconciling Abstraction with High Performance: A MetaOCaml approach** (Book)  
+  ([BibTeX](https://dblp.uni-trier.de/rec/bibtex/journals/ftpl/Kiselyov18))  
+  by Oleg Kiselyov
+
 * **Funcons for HGMP: the fundamental constructs of homogeneous generative meta-programming (short paper)** (GPCE 2018)  
   ([paper](https://pure.royalholloway.ac.uk/portal/files/31169539/paper.pdf))
   ([BibTeX](https://dblp.org/rec/bibtex/conf/gpce/Binsbergen18))    
