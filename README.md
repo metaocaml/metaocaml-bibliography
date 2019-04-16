@@ -405,7 +405,7 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
   ([BibTeX](https://dblp.uni-trier.de/rec/bibtex/conf/icalp/CalcagnoMT00))  
   by Cristiano Calcagno, Eugenio Moggi and Walid Taha
 
-* Multi-Stage Imperative Languages: A Conservative Extension Result (SAIG 2000)  
+* **Multi-Stage Imperative Languages: A Conservative Extension Result** (SAIG 2000)  
   ([paper](https://www.disi.unige.it/person/MoggiE/ftp/saig00.pdf))
   ([BibTeX](https://dblp.org/rec/bibtex/conf/saig/CalcagnoM00))  
   by Cristiano Calcagno and Eugenio Moggi
