@@ -405,6 +405,11 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
   ([BibTeX](https://dblp.uni-trier.de/rec/bibtex/conf/icalp/CalcagnoMT00))  
   by Cristiano Calcagno, Eugenio Moggi and Walid Taha
 
+* Multi-Stage Imperative Languages: A Conservative Extension Result (SAIG 2000)  
+  ([paper](https://www.disi.unige.it/person/MoggiE/ftp/saig00.pdf))
+  ([BibTeX](https://dblp.org/rec/bibtex/conf/saig/CalcagnoM00))  
+  by Cristiano Calcagno and Eugenio Moggi
+
 * **Sound Reductions for Untyped CBN MetaML** (PEPM 2000)  
   ([paper](https://www.researchgate.net/profile/Walid_Taha2/publication/234810737_A_sound_reduction_semantics_for_untyped_CBN_multi-stage_computation._Or_the_theory_of_MetaML_is_non-trivial._ACM_SIGPLAN_Notices/links/0a85e532b4d3a11b04000000.pdf))
   ([BibTeX](https://dblp.uni-trier.de/rec/bibtex/conf/pepm/Taha00))  
