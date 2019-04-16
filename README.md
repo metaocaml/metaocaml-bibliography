@@ -346,6 +346,11 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
   ([BibTeX](https://dblp.uni-trier.de/rec/bibtex/conf/esop/CalcagnoMT04))  
   by Cristiano Calcagno, Eugenio Moggi and Walid Taha
 
+* **MetaKlaim: A Type Safe Multi-stage Language for Global Computing** (MSCS 2004)  
+  ([paper](https://www.disi.unige.it/person/MoggiE/ftp/mscs03.pdf))
+  ([BibTeX](https://dblp.org/rec/bibtex/journals/mscs/FerrariMP04))  
+  by Gian Luigi Ferrari, Eugenio Moggi and Rosario Pugliese
+
 #### 2003
 
 * **Closed Types for a Safe Imperative MetaML** (JFP 2003)  
