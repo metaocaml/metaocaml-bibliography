@@ -4,6 +4,11 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
 
 #### 2019
 
+* **A typed, algebraic approach to parsing** (PLDI 2019)  
+  ([paper](https://www.cl.cam.ac.uk/~jdy22/papers/a-typed-algebraic-approach-to-parsing.pdf))
+  ([BibTeX](https://dl.acm.org/exportformats.cfm?id=3314625&expformat=bibtex))  
+  by Neelakantan Krishnaswami and Jeremy Yallop
+
 * **Generating mutually recursive definitions** (PEPM 2019)  
   ([paper](https://www.cl.cam.ac.uk/~jdy22/papers/generating-mutually-recursive-definitions-short-paper.pdf))
   ([BibTeX](https://dl.acm.org/exportformats.cfm?id=3294078&expformat=bibtex))  
