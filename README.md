@@ -4,6 +4,10 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
 
 #### 2019
 
+* **A Dependently Typed Multi-Stage Calculus**  
+  ([paper](https://arxiv.org/pdf/1908.02035))  
+  by Akira Kawata and Atushi Igarashi
+
 * **A typed, algebraic approach to parsing** (PLDI 2019)  
   ([paper](https://www.cl.cam.ac.uk/~jdy22/papers/a-typed-algebraic-approach-to-parsing.pdf))
   ([BibTeX](https://dl.acm.org/exportformats.cfm?id=3314625&expformat=bibtex))  
