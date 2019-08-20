@@ -4,6 +4,11 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
 
 #### 2019
 
+* **Multi-stage Programs in Context**  
+  ([paper](http://mpickering.github.io/papers/multi-stage-programs-in-context.pdf))
+  ([BibTeX](https://dblp.org/rec/bibtex/conf/haskell/PickeringWK19))  
+  by Matthew Pickering, Nicolas Wu and Csongor Kiss  
+
 * **A Dependently Typed Multi-Stage Calculus**  
   ([paper](https://arxiv.org/pdf/1908.02035))  
   by Akira Kawata and Atushi Igarashi
