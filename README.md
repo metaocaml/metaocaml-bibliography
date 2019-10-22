@@ -4,6 +4,9 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
 
 #### 2019
 
+* **A Survey of Metaprogramming Languages** (CSUR, 2019)  
+  by Yannis Lilis and Anthony Savidis
+
 * **Multi-stage Programs in Context**  
   ([paper](http://mpickering.github.io/papers/multi-stage-programs-in-context.pdf))
   ([BibTeX](https://dblp.org/rec/bibtex/conf/haskell/PickeringWK19))  
