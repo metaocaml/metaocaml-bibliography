@@ -288,7 +288,7 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
   by Jacques Carette
 
 * **Combining Partial Evaluation and Staged Interpretation in the Implementation of Domain-Specific Languages** (SCP 2006)  
-  ([paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.87.2497&rep=rep1&type=pdf))
+  ([paper](https://core.ac.uk/download/pdf/81123642.pdf))
   ([BibTeX](https://dblp.uni-trier.de/pers/hb/l/Langhammer:Tobias.html))  
   by Christoph A. Herrmann and Tobias Langhammer
 
