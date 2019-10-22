@@ -420,7 +420,7 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
   by Walid Taha and Tim Sheard
 
 * **Closed Types as a Simple Approach to Safe Imperative Multi-Stage Programming** (ICALP 2000)  
-  ([paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.99.3560&rep=rep1&type=pdf))
+  ([paper](https://person.dibris.unige.it/moggi-eugenio/ftp/icalp00.pdf))
   ([BibTeX](https://dblp.uni-trier.de/rec/bibtex/conf/icalp/CalcagnoMT00))  
   by Cristiano Calcagno, Eugenio Moggi and Walid Taha
 
