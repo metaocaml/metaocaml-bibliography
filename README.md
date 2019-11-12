@@ -26,6 +26,11 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
   ([BibTeX](https://dl.acm.org/exportformats.cfm?id=3294078&expformat=bibtex))  
   by Jeremy Yallop and Oleg Kiselyov
 
+* **Meta C++: an extension layer for multi-stage generative metaprogramming** (Journal of Object Technology)  
+  [paper](http://www.jot.fm/issues/issue_2019_01/article1.pdf)
+  ([BibTeX](https://dblp.uni-trier.de/rec/bibtex/journals/jot/LilisS19))  
+  by Yannis Lilis and Anthony Savidis
+
 #### 2018
 
 * **Reconciling Abstraction with High Performance: A MetaOCaml approach** (Book)  
@@ -56,6 +61,10 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
 * **Generating mutually recursive definitions (extended abstract)** (ML 2018)  
   ([extended abstract](https://www.cl.cam.ac.uk/~jdy22/papers/generating-mutually-recursive-definitions.pdf))  
   by Jeremy Yallop and Oleg Kiselyov
+
+* **Multi-Stage JavaScript** (arXiv draft)  
+  ([paper](https://arxiv.org/pdf/1807.01611))  
+  by Anthony Savidis, Yannis Apostolidis and Yannis Lilis
 
 #### 2017
 
