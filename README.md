@@ -12,8 +12,9 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
   ([BibTeX](https://dblp.org/rec/bibtex/conf/haskell/PickeringWK19))  
   by Matthew Pickering, Nicolas Wu and Csongor Kiss  
 
-* **A Dependently Typed Multi-Stage Calculus**  
-  ([paper](https://arxiv.org/pdf/1908.02035))  
+* **A Dependently Typed Multi-Stage Calculus** (APLAS 2019)  
+  ([paper](https://arxiv.org/pdf/1908.02035))
+  ([BibTeX](https://dblp.org/rec/bibtex/conf/aplas/KawataI19))  
   by Akira Kawata and Atushi Igarashi
 
 * **A typed, algebraic approach to parsing** (PLDI 2019)  
