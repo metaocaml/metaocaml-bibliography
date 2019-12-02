@@ -400,6 +400,11 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
   ([BibTeX](https://dblp.uni-trier.de/rec/bibtex/conf/popl/TahaN03))  
   by Walid Taha and Michael Florentin Nielsen
 
+* **An Efficient Staging Algorithm for Binding-Time Analysis** (LOPSTR 2003)  
+  ([paper](http://research.nii.ac.jp/~hu/pub/lopstr03-murakami.pdf))
+  ([BibTeX](https://dblp.org/rec/bibtex/conf/lopstr/MurakamiHKT03))  
+  by Takuma Murakami, Zhenjiang Hu, Kazuhiko Kakehi and Masato Takeichi
+
 #### 2002
 
 * **Tagless Staged Interpreters for Typed Languages** (ICFP 2002)  
