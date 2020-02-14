@@ -19,12 +19,12 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
 
 * **A typed, algebraic approach to parsing** (PLDI 2019)  
   ([paper](https://www.cl.cam.ac.uk/~jdy22/papers/a-typed-algebraic-approach-to-parsing.pdf))
-  ([BibTeX](https://dl.acm.org/exportformats.cfm?id=3314625&expformat=bibtex))  
+  ([BibTeX](https://dblp.uni-trier.de/rec/bibtex/conf/pldi/KrishnaswamiY19))  
   by Neelakantan Krishnaswami and Jeremy Yallop
 
 * **Generating mutually recursive definitions** (PEPM 2019)  
   ([paper](https://www.cl.cam.ac.uk/~jdy22/papers/generating-mutually-recursive-definitions-short-paper.pdf))
-  ([BibTeX](https://dl.acm.org/exportformats.cfm?id=3294078&expformat=bibtex))  
+  ([BibTeX](https://dblp.uni-trier.de/rec/bibtex/conf/pepm/YallopK19))  
   by Jeremy Yallop and Oleg Kiselyov
 
 * **Meta C++: an extension layer for multi-stage generative metaprogramming** (Journal of Object Technology)  
@@ -56,7 +56,7 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
 * **Partially static data as free extension of algebras** (PEPM 2018, ICFP 2018)  
   ([short paper (PEPM)](https://www.cl.cam.ac.uk/~jdy22/papers/partially-static-data-as-free-extension-of-algebras-short-paper.pdf))
   ([full paper (ICFP)](https://www.cl.cam.ac.uk/~jdy22/papers/partially-static-data-as-free-extension-of-algebras.pdf))
-  ([BibTeX](https://dl.acm.org/exportformats.cfm?id=3236795&expformat=bibtex))  
+  ([BibTeX](https://dblp.org/rec/bibtex/journals/pacmpl/YallopGK18))  
   by Jeremy Yallop, Tamara von Glehn and Ohad Kammar
 
 * **Generating mutually recursive definitions (extended abstract)** (ML 2018)  
@@ -128,7 +128,7 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
 
 * **Generic partially-static data** (TyDe 2016)  
   ([extended abstract](https://www.cl.cam.ac.uk/~jdy22/papers/generic-partially-static-data.pdf))
-  ([BibTeX](https://dl.acm.org/exportformats.cfm?id=2976028&expformat=bibtex))  
+  ([BibTeX](https://dblp.uni-trier.de/rec/bibtex/conf/icfp/Kaloper-Mersinjak16))  
   by David Kaloper-Meršinjak and Jeremy Yallop
 
 * **Staging generic programming** (PEPM 2016)  
