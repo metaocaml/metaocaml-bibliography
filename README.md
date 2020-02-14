@@ -9,6 +9,7 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
   by Rui Ge and RonaldGarcia
 
 * **A Survey of Metaprogramming Languages** (CSUR, 2019)  
+  ([BibTeX](https://dblp.uni-trier.de/rec/bibtex/journals/csur/LilisS20))  
   by Yannis Lilis and Anthony Savidis
 
 * **Multi-stage Programs in Context**  
