@@ -4,6 +4,10 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
 
 #### 2019
 
+* **Refining semantics for multi-stage programming** (COMLAN, 2019)  
+  ([BibTeX](https://dblp.uni-trier.de/rec/bibtex/journals/vlc/GeG19))  
+  by Rui Ge and RonaldGarcia
+
 * **A Survey of Metaprogramming Languages** (CSUR, 2019)  
   by Yannis Lilis and Anthony Savidis
 
