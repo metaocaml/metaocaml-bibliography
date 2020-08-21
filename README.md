@@ -2,11 +2,24 @@
 
 Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaocaml-bibliography/pulls) welcome!  Note: end a line with two spaces to force a line break.
 
+#### 2020
+
+
+* **Staged Sums of Products**  
+  ([paper](https://www.kosmikus.org/StagedSOP/))
+  ([BibTeX](https://dblp.org/rec/conf/haskell/PickeringLW20.html?view=bibtex))  
+  by Matthew Pickering, Andres Löh and Nicolas Wu 
+  
+* **Staged Selective Parser Combinators**  
+  ([paper](https://dl.acm.org/doi/pdf/10.1145/3409002))
+  ([BibTeX](https://dblp.org/rec/journals/pacmpl/WillisWP20.html?view=bibtex)  
+  by Jamie Willis, Nicolas Wu and Matthew Pickering
+
 #### 2019
 
 * **Refining semantics for multi-stage programming** (COMLAN, 2019)  
   ([BibTeX](https://dblp.uni-trier.de/rec/bibtex/journals/vlc/GeG19))  
-  by Rui Ge and RonaldGarcia
+  by Rui Ge and Ronald Garcia
 
 * **A Survey of Metaprogramming Languages** (CSUR, 2019)  
   ([BibTeX](https://dblp.uni-trier.de/rec/bibtex/journals/csur/LilisS20))  
