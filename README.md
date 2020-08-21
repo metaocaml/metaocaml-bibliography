@@ -12,7 +12,7 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
   
 * **Staged Selective Parser Combinators**  
   ([paper](https://dl.acm.org/doi/pdf/10.1145/3409002))
-  ([BibTeX](https://dblp.org/rec/journals/pacmpl/WillisWP20.html?view=bibtex)  
+  ([BibTeX](https://dblp.org/rec/journals/pacmpl/WillisWP20.html?view=bibtex))  
   by Jamie Willis, Nicolas Wu and Matthew Pickering
 
 #### 2019
