@@ -253,7 +253,7 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
   by Fulong Chen, Walid Taha and Lei Deng
 
 * **Mint: Java multi-stage programming using weak separability** (PLDI 2010)  
-  ([paper](https://www.researchgate.net/publication/220752255_Mint_Java_Multi-stage_Programming_Using_Weak_Separability/download))
+  ([paper](https://github.com/maroneal/www/raw/master/publications/conference/pldi10.pdf))
   ([BibTeX](https://dblp.uni-trier.de/rec/bibtex/conf/pldi/WestbrookRIYAT10))  
   by Edwin Westbrook, Mathias Ricken, Jun Inoue, Yilong Yao, Tamer Abdelatif and Walid Taha
 
@@ -293,7 +293,7 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
 #### 2007
 
 * **Concoqtion: indexed types now!** (PEPM 2007)  
-  ([paper](https://www.researchgate.net/profile/Jeremy_Siek/publication/213881769_Concoqtion_Indexed_Types_Now/links/0912f507f2204dc538000000.pdf))
+  ([paper](https://github.com/maroneal/www/raw/master/publications/conference/pepm07b.pdf))
   ([BibTeX](https://dblp.uni-trier.de/rec/bibtex/conf/pepm/FogartyPST07))  
   by Seth Fogarty, Emir Pasalic, Jeremy Siek and Walid Taha
 
@@ -324,7 +324,7 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
   by Christoph A. Herrmann and Tobias Langhammer
 
 * **A Monadic Approach for Avoiding Code Duplication** (PEPM 2006)  
-  ([paper](https://www.researchgate.net/profile/Emir_Pasalic/publication/220989890_A_monadic_approach_for_avoiding_code_duplication_when_staging_memoized_functions/links/0912f5093cb595faeb000000.pdf))
+  ([paper](https://github.com/maroneal/www/raw/master/publications/conference/pepm06.pdf))
   ([BibTeX](https://dblp.org/rec/bibtex/conf/pepm/SwadiTKP06))  
   by Kedar Swadi, Walid Taha, Oleg Kiselyov and Emir Pasalic
 
@@ -341,7 +341,7 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
 #### 2005
 
 * **Towards a fully-reflective meta-programming language** (ACSC 2005)  
-  ([paper](https://www.researchgate.net/publication/27482487_Towards_a_Fully-Reflective_Meta-Programming_Language/download))
+  ([paper](https://crpit.scem.westernsydney.edu.au/confpapers/CRPITV38Neverov.pdf))
   ([BibTeX](https://dblp.uni-trier.de/rec/bibtex/conf/acsc/NeverovR05))  
   by Gregory Neverov and Paul Roe
 
@@ -350,7 +350,7 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
   by Tobias Langhammer  
 
 * **Implicitly Heterogeneous Multi-Stage Programming** (GPCE 2005) (New Generation Comput. 2007)   
-  ([extended](https://www.researchgate.net/profile/Emir_Pasalic/publication/225698976_Implicitly_Heterogeneous_Multi-Stage_Programming/links/09e4150cbf60f21199000000/Implicitly-Heterogeneous-Multi-Stage-Programming.pdf))
+  ([extended](https://github.com/maroneal/www/raw/master/publications/preprints/2005-06-28-TR.pdf))
   ([BibTeX](https://dblp.uni-trier.de/rec/bibtex/journals/ngc/EckhardtKPST07))  
   by Jason Eckhardt, Roumen Kaiabachev, Emir Pasalic, Kedar Swadi and Walid Taha
 
@@ -360,7 +360,7 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
   by Christoph A. Herrmann
 
 * **Staging Dynamic Programming Algorithms** (Unpublished)  
-  ([paper](https://www.researchgate.net/profile/Walid_Taha2/publication/228634064_Staging_Dynamic_Programming_Algorithms/links/0a85e532b4d3c778a8000000.pdf))    
+  ([paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.62.4729&rep=rep1&type=pdf))    
   by Kedar Swadi, Walid Taha and Oleg Kiselyov
 
 #### 2004
@@ -371,7 +371,7 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
   by Nathan Linger and Tim Sheard
 
 * **DSL Implementation in MetaOCaml, Template Haskell, and C++** (DSPG 2003) (OOPSLA companion 2004)  
-  ([paper](https://www.researchgate.net/profile/Walid_Taha2/publication/221025927_DSL_implementation_in_MetaOCaml_template_Haskell_and_C/links/0a85e532b4d3e872b1000000.pdf))
+  ([paper](https://github.com/maroneal/www/raw/master/publications/journal/dspg04b.pdf))
   ([BibTeX (DSPG)](https://dblp.uni-trier.de/rec/bibtex/conf/dagstuhl/CzarneckiOST03))
   ([BibTeX (OOPSLA)](https://dblp.uni-trier.de/rec/bibtex/conf/oopsla/GuerreroPRST04))  
   by Krzysztof Czarnecki, John O’Donnell, Jörg Striegnitz and Walid Taha
@@ -382,12 +382,12 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
   by Walid Taha
 
 * **A Methodology for Generating Verified Combinatorial Circuits** (EMSOFT 2004)  
-  ([paper](https://www.researchgate.net/profile/Walid_Taha2/publication/220800908_A_methodology_for_generating_verified_combinatorial_circuits/links/0deec538a363ddb29c000000/A-methodology-for-generating-verified-combinatorial-circuits.pdf))
+  ([paper](https://github.com/maroneal/www/raw/master/publications/conference/emsoft04.pdf))
   ([BibTeX](https://dblp.org/rec/bibtex/conf/emsoft/KiselyovST04))  
   by Oleg Kiselyov, Kedar N. Swadi and Walid Taha
 
 * **ML-like Inference for Classifiers** (ESOP 2004)  
-  ([paper](https://www.researchgate.net/profile/Walid_Taha2/publication/221602818_ML-Like_Inference_for_Classifiers/links/0deec538a36395a807000000.pdf))
+  ([paper](https://github.com/maroneal/www/raw/master/publications/conference/esop04.pdf))
   ([BibTeX](https://dblp.uni-trier.de/rec/bibtex/conf/esop/CalcagnoMT04))  
   by Cristiano Calcagno, Eugenio Moggi and Walid Taha
 
@@ -399,7 +399,7 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
 #### 2003
 
 * **Closed Types for a Safe Imperative MetaML** (JFP 2003)  
-   ([paper](https://www.researchgate.net/profile/Tim_Sheard-PSU/publication/220676527_Closed_Types_for_a_Safe_Imperative_MetaML/links/00b7d52a0bb1196860000000/Closed-Types-for-a-Safe-Imperative-MetaML.pdf))
+   ([paper](https://person.dibris.unige.it/moggi-eugenio/ftp/jfp02.pdf))
    ([BibTeX](https://dblp.org/rec/bibtex/journals/jfp/CalcagnoMS03))  
    by Cristiano Calcagno, Eugenio Moggi and Tim Sheard
 
@@ -409,12 +409,12 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
   by Cristiano Calcagno, Walid Taha, Liwen Huang and Xavier Leroy
 
 * **Staged Notational Definitions** (GPCE 2003)  
-  ([paper](https://www.researchgate.net/profile/Walid_Taha2/publication/221108761_Staged_Notational_Definitions/links/56aa686008aed814bde69c1a/Staged-Notational-Definitions.pdf))
+  ([paper](http://www.cs.appstate.edu/~johannp/gpce03.pdf))
   ([BibTeX](https://dblp.uni-trier.de/rec/bibtex/conf/gpce/TahaJ03))  
   by Walid Taha and Patricia Johann
 
 * **Environment Classifiers** (POPL 2003)  
-  ([paper](https://www.researchgate.net/profile/Walid_Taha2/publication/213882793_Environment_classifiers/links/0deec538a3642d9d1c000000.pdf))
+  ([paper](https://github.com/maroneal/www/raw/master/publications/conference/popl03.pdf))
   ([BibTeX](https://dblp.uni-trier.de/rec/bibtex/conf/popl/TahaN03))  
   by Walid Taha and Michael Florentin Nielsen
 
@@ -466,7 +466,7 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
   by Cristiano Calcagno and Eugenio Moggi
 
 * **Sound Reductions for Untyped CBN MetaML** (PEPM 2000)  
-  ([paper](https://www.researchgate.net/profile/Walid_Taha2/publication/234810737_A_sound_reduction_semantics_for_untyped_CBN_multi-stage_computation._Or_the_theory_of_MetaML_is_non-trivial._ACM_SIGPLAN_Notices/links/0a85e532b4d3a11b04000000.pdf))
+  ([paper](https://github.com/maroneal/www/raw/master/publications/conference/pepm00.pdf))
   ([BibTeX](https://dblp.uni-trier.de/rec/bibtex/conf/pepm/Taha00))  
   by Walid Taha
 
