@@ -4,6 +4,9 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
 
 #### 2020
 
+* **Session Types without Sophistry**  
+  ([paper](http://okmij.org/ftp/meta-programming/sessions/description.pdf))  
+  by Oleg Kiselyov and Keigo Imai
 
 * **Staged Sums of Products**  
   ([paper](https://www.kosmikus.org/StagedSOP/))
