@@ -125,7 +125,7 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
   by Oleg Kiselyov, Yukiyoshi Kameyama and Yuto Sudo
 
 * **Reasoning about multi-stage programs** (JFP 2016)  
-  ([paper](https://www.researchgate.net/publication/309751853_Reasoning_about_multi-stage_programs/download))
+  ([paper](https://github.com/metaocaml/metaocaml-bibliography/raw/local-cache/cache/Reasoning_about_multi-stage_programs.pdf))
   ([BibTeX](https://dblp.uni-trier.de/rec/bibtex/journals/jfp/InoueT16))  
   by Jun Inoue and Walid Taha
 
@@ -355,7 +355,7 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
   by Jason Eckhardt, Roumen Kaiabachev, Emir Pasalic, Kedar Swadi and Walid Taha
 
 * **Generating Message-Passing Programs from Abstract Specifications by Partial Evaluation** (PPL 2005)  
-  ([paper](https://www.researchgate.net/profile/Christoph_Herrmann7/publication/220439639/links/56f14b6208aec63f4c9b54c4/file.pdf))
+  ([paper](https://github.com/metaocaml/metaocaml-bibliography/raw/local-cache/cache/Generating-Message-passing-Programs-from-Abstract-Specifications-by-Partial-Evaluation.pdf))
   ([BibTeX](https://dblp.uni-trier.de/rec/bibtex/journals/ppl/Herrmann05))  
   by Christoph A. Herrmann
 
