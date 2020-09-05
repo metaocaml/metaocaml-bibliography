@@ -4,13 +4,16 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
 
 #### 2020
 
+* **Session Types without Sophistry**  (FLOPS 2020)  
+  ([paper](http://okmij.org/ftp/meta-programming/sessions/description.pdf))  
+  by Oleg Kiselyov and Keigo Imai
 
-* **Staged Sums of Products**  
+* **Staged Sums of Products** (Haskell 2020)  
   ([paper](https://www.kosmikus.org/StagedSOP/))
   ([BibTeX](https://dblp.org/rec/conf/haskell/PickeringLW20.html?view=bibtex))  
   by Matthew Pickering, Andres Löh and Nicolas Wu 
   
-* **Staged Selective Parser Combinators**  
+* **Staged Selective Parser Combinators**  (ICFP 2020)  
   ([paper](https://dl.acm.org/doi/pdf/10.1145/3409002))
   ([BibTeX](https://dblp.org/rec/journals/pacmpl/WillisWP20.html?view=bibtex))  
   by Jamie Willis, Nicolas Wu and Matthew Pickering
@@ -25,7 +28,7 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
   ([BibTeX](https://dblp.uni-trier.de/rec/bibtex/journals/csur/LilisS20))  
   by Yannis Lilis and Anthony Savidis
 
-* **Multi-stage Programs in Context**  
+* **Multi-stage Programs in Context**  (Haskell 2019)  
   ([paper](http://mpickering.github.io/papers/multi-stage-programs-in-context.pdf))
   ([BibTeX](https://dblp.org/rec/bibtex/conf/haskell/PickeringWK19))  
   by Matthew Pickering, Nicolas Wu and Csongor Kiss  
