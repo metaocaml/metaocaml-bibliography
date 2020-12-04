@@ -512,7 +512,4 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
   by Walid Taha and Tim Sheard
 
 
-
-
 Status of links at last commit: [![Build Status](https://travis-ci.org/metaocaml/metaocaml-bibliography.svg?branch=master)](https://travis-ci.org/metaocaml/metaocaml-bibliography)
-
