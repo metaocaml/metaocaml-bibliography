@@ -53,6 +53,10 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
   ([BibTeX](https://dblp.uni-trier.de/rec/bibtex/journals/jot/LilisS19))  
   by Yannis Lilis and Anthony Savidis
 
+* **`let` (`rec`) insertion without effects, lights or magic (extended abstract)** (ML 2019)  
+  ([extended abstract](https://www.cl.cam.ac.uk/~jdy22/papers/let-rec-insertion-without-effects-lights-or-magic.pdf))  
+  Oleg Kiselyov and Jeremy Yallop
+
 #### 2018
 
 * **Reconciling Abstraction with High Performance: A MetaOCaml approach** (Book)  
