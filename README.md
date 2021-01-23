@@ -6,6 +6,7 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
 
 * **Session Types without Sophistry**  (FLOPS 2020)  
   ([paper](http://okmij.org/ftp/meta-programming/sessions/description.pdf))  
+  ([BibTeX](https://dblp.org/rec/bibtex/conf/flops/KiselyovI20))  
   by Oleg Kiselyov and Keigo Imai
 
 * **Staged Sums of Products** (Haskell 2020)  
@@ -49,7 +50,7 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
   by Jeremy Yallop and Oleg Kiselyov
 
 * **Meta C++: an extension layer for multi-stage generative metaprogramming** (Journal of Object Technology)  
-  [paper](http://www.jot.fm/issues/issue_2019_01/article1.pdf)
+  ([paper](http://www.jot.fm/issues/issue_2019_01/article1.pdf))
   ([BibTeX](https://dblp.uni-trier.de/rec/bibtex/journals/jot/LilisS19))  
   by Yannis Lilis and Anthony Savidis
 
@@ -176,7 +177,8 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
   ([extended abstract](https://www.cl.cam.ac.uk/~jdy22/papers/modular-macros.pdf))  
   by Jeremy Yallop and Leo White
 
-* **Generate and offshore: type-safe and modular code generation for low-level optimization**  
+* **Generate and offshore: type-safe and modular code generation for low-level optimization** (FHPC 2015)  
+  ([BibTeX](https://dblp.uni-trier.de/rec/bibtex/conf/icfp/TakashimaSK15))  
   by Naoki Takashima, Hiroki Sakamoto and Yukiyoshi Kameyama
 
 * **Combinators for Impure yet Hygienic Code Generation** (SCP 2015)  
@@ -257,6 +259,7 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
 #### 2010
 
 * **Multi-Stage Programming for High-Level Description of Circuit Families** (CISP 2010)  
+  ([paper](https://github.com/maroneal/www/raw/master/publications/conference/cisp10.pdf))  
   by Fulong Chen, Walid Taha and Lei Deng
 
 * **Mint: Java multi-stage programming using weak separability** (PLDI 2010)  
