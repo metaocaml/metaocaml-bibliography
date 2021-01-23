@@ -50,7 +50,7 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
   by Jeremy Yallop and Oleg Kiselyov
 
 * **Meta C++: an extension layer for multi-stage generative metaprogramming** (Journal of Object Technology)  
-  [paper](http://www.jot.fm/issues/issue_2019_01/article1.pdf)
+  ([paper](http://www.jot.fm/issues/issue_2019_01/article1.pdf))
   ([BibTeX](https://dblp.uni-trier.de/rec/bibtex/journals/jot/LilisS19))  
   by Yannis Lilis and Anthony Savidis
 
