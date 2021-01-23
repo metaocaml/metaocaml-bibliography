@@ -259,6 +259,7 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
 #### 2010
 
 * **Multi-Stage Programming for High-Level Description of Circuit Families** (CISP 2010)  
+  ([paper](https://github.com/maroneal/www/raw/master/publications/conference/cisp10.pdf))  
   by Fulong Chen, Walid Taha and Lei Deng
 
 * **Mint: Java multi-stage programming using weak separability** (PLDI 2010)  
