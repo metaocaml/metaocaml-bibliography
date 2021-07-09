@@ -277,6 +277,7 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
 
 * **A Logical Foundation for Environment Classifiers** (TLCA 2009) (LMCS 2010)  
   ([paper (TLCA)](http://www.fos.kuis.kyoto-u.ac.jp/~igarashi/papers/pdf/classifiers-TLCA09.pdf))
+  ([paper (LMCS)](https://lmcs.episciences.org/1065/pdf)
   ([BibTeX (TLCA)](https://dblp.uni-trier.de/rec/bibtex/conf/tlca/TsukadaI09))
   ([BibTeX (LMCS)](https://dblp.uni-trier.de/rec/bibtex/journals/corr/abs-1010-3806))  
   by Takeshi Tsukada and Atsushi Igarashi
