@@ -65,8 +65,8 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
   by Oleg Kiselyov
 
 * **Funcons for HGMP: the fundamental constructs of homogeneous generative meta-programming (short paper)** (GPCE 2018)  
-  ([paper](https://pure.royalholloway.ac.uk/portal/files/31169539/paper.pdf))
-  ([BibTeX](https://dblp.org/rec/bibtex/conf/gpce/Binsbergen18))    
+  ([paper](https://ir.cwi.nl/pub/29665/29665.pdf))
+  ([BibTeX](https://dblp.org/rec/bibtex/conf/gpce/Binsbergen18))  
   by L. Thomas van Binsbergen
 
 * **A Practical Unification of Multi-stage Programming and Macros** (GPCE 2018)  
@@ -277,6 +277,7 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
 
 * **A Logical Foundation for Environment Classifiers** (TLCA 2009) (LMCS 2010)  
   ([paper (TLCA)](http://www.fos.kuis.kyoto-u.ac.jp/~igarashi/papers/pdf/classifiers-TLCA09.pdf))
+  ([paper (LMCS)](https://lmcs.episciences.org/1065/pdf)
   ([BibTeX (TLCA)](https://dblp.uni-trier.de/rec/bibtex/conf/tlca/TsukadaI09))
   ([BibTeX (LMCS)](https://dblp.uni-trier.de/rec/bibtex/journals/corr/abs-1010-3806))  
   by Takeshi Tsukada and Atsushi Igarashi
@@ -419,7 +420,7 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
   by Cristiano Calcagno, Walid Taha, Liwen Huang and Xavier Leroy
 
 * **Staged Notational Definitions** (GPCE 2003)  
-  ([paper](http://www.cs.appstate.edu/~johannp/gpce03.pdf))
+  ([paper](https://cs.appstate.edu/~johannp/gpce03.pdf))
   ([BibTeX](https://dblp.uni-trier.de/rec/bibtex/conf/gpce/TahaJ03))  
   by Walid Taha and Patricia Johann
 
