@@ -65,8 +65,8 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
   by Oleg Kiselyov
 
 * **Funcons for HGMP: the fundamental constructs of homogeneous generative meta-programming (short paper)** (GPCE 2018)  
-  ([paper](https://pure.royalholloway.ac.uk/portal/files/31169539/paper.pdf))
-  ([BibTeX](https://dblp.org/rec/bibtex/conf/gpce/Binsbergen18))    
+  ([paper](https://ir.cwi.nl/pub/29665/29665.pdf))
+  ([BibTeX](https://dblp.org/rec/bibtex/conf/gpce/Binsbergen18))  
   by L. Thomas van Binsbergen
 
 * **A Practical Unification of Multi-stage Programming and Macros** (GPCE 2018)  
