@@ -420,7 +420,7 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
   by Cristiano Calcagno, Walid Taha, Liwen Huang and Xavier Leroy
 
 * **Staged Notational Definitions** (GPCE 2003)  
-  ([paper](http://www.cs.appstate.edu/~johannp/gpce03.pdf))
+  ([paper](https://cs.appstate.edu/~johannp/gpce03.pdf))
   ([BibTeX](https://dblp.uni-trier.de/rec/bibtex/conf/gpce/TahaJ03))  
   by Walid Taha and Patricia Johann
 
