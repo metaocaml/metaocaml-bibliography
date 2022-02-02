@@ -6,7 +6,7 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
 
 * **Type-safe generation of modules in applicative and generative styles** (GPCE 2021)  
   ([paper](http://www.cs.tsukuba.ac.jp/~kam/papers/gpce2021.pdf))
-  ([BibTeX](https://dblp.org/rec/conf/gpce/SatoK21.html?view=bibtex))
+  ([BibTeX](https://dblp.org/rec/conf/gpce/SatoK21.html?view=bibtex))  
   by Yuhi Sato and Yukiyoshi Kameyama  
 
 * **Module Generation in Multi-Stage Programming** (Masters thesis)  
@@ -21,7 +21,7 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
   by Yuhi Sato, Yukiyoshi Kameyama and Takahisa Watanabe
 
 * **Session Types without Sophistry**  (FLOPS 2020)  
-  ([paper](http://okmij.org/ftp/meta-programming/sessions/description.pdf))  
+  ([paper](http://okmij.org/ftp/meta-programming/sessions/description.pdf))
   ([BibTeX](https://dblp.org/rec/bibtex/conf/flops/KiselyovI20))  
   by Oleg Kiselyov and Keigo Imai
 
