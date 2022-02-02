@@ -356,7 +356,7 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
   by Kedar Swadi, Walid Taha, Oleg Kiselyov and Emir Pasalic
 
 * **Experiences with an object-oriented, multi-stage language** (SCP 2006)  
-  ([paper](https://core.ac.uk/download/pdf/82237301.pdf))
+  ([paper](http://web.archive.org/web/20190302172537/https://core.ac.uk/download/pdf/82237301.pdf))
   ([BibTeX](https://dblp.uni-trier.de/rec/bibtex/journals/scp/NeverovR06))  
   by Gregory Neverov and Paul Roe
 
