@@ -2,7 +2,23 @@
 
 Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaocaml-bibliography/pulls) welcome!  Note: end a line with two spaces to force a line break.
 
+#### 2021
+
+* **Type-safe generation of modules in applicative and generative styles** (GPCE 2021)  
+  ([paper](http://www.cs.tsukuba.ac.jp/~kam/papers/gpce2021.pdf))
+  ([BibTeX](https://dblp.org/rec/conf/gpce/SatoK21.html?view=bibtex))
+  by Yuhi Sato and Yukiyoshi Kameyama  
+
+* **Module Generation in Multi-Stage Programming** (Masters thesis)  
+  ([dissertation](http://logic.cs.tsukuba.ac.jp/~yuhi/master-thesis.pdf))  
+  by Yuhi Sato
+
 #### 2020
+
+* **Module generation without regret** (PEPM 2020)  
+  ([paper](https://www.cs.tsukuba.ac.jp/~kam/papers/pepm2020.pdf))
+  ([BibTeX](https://dblp.org/rec/conf/pepm/SatoKW20.html?view=bibtex))  
+  by Yuhi Sato, Yukiyoshi Kameyama and Takahisa Watanabe
 
 * **Session Types without Sophistry**  (FLOPS 2020)  
   ([paper](http://okmij.org/ftp/meta-programming/sessions/description.pdf))  
@@ -340,7 +356,7 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
   by Kedar Swadi, Walid Taha, Oleg Kiselyov and Emir Pasalic
 
 * **Experiences with an object-oriented, multi-stage language** (SCP 2006)  
-  ([paper](https://core.ac.uk/download/pdf/82237301.pdf))
+  ([paper](http://web.archive.org/web/20190302172537/https://core.ac.uk/download/pdf/82237301.pdf))
   ([BibTeX](https://dblp.uni-trier.de/rec/bibtex/journals/scp/NeverovR06))  
   by Gregory Neverov and Paul Roe
 
