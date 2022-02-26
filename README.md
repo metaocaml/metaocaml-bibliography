@@ -28,8 +28,6 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
   ([dissertation](http://logic.cs.tsukuba.ac.jp/~yuhi/master-thesis.pdf))  
   by Yuhi Sato
 
-* **
-
 #### 2020
 
 * **Module generation without regret** (PEPM 2020)  
