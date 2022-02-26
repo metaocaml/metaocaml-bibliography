@@ -2,6 +2,16 @@
 
 Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaocaml-bibliography/pulls) welcome!  Note: end a line with two spaces to force a line break.
 
+#### 2022
+
+* **Unified Program Generation and Verification: A Case Study on Number-Theoretic Transform** (FLOPS 2022)  
+  ([paper](http://www.cs.tsukuba.ac.jp/~kam/papers/flops2022-author-version.pdf))
+  ([code](https://github.com/masahi/nttverify))  
+  by Masahiro Masuda and Yukiyoshi Kameyama
+
+* **Generating C: System Description** (FLOPS 2022)  
+  by Oleg Kiselyov
+
 #### 2021
 
 * **Type-safe generation of modules in applicative and generative styles** (GPCE 2021)  
