@@ -12,6 +12,11 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
 * **Generating C: System Description** (FLOPS 2022)  
   by Oleg Kiselyov
 
+* **Staging with Class: A Specification for Typed Template Haskell** (POPL 2022)  
+  ([paper](https://www.cl.cam.ac.uk/~jdy22/papers/staging-with-class.pdf))
+  ([BibTeX](https://dblp.uni-trier.de/rec/journals/pacmpl/XiePLWYW22.html?view=bibtex))  
+  by Ningning Xie, Matthew Pickering, Andres Löh, Nicolas Wu, Jeremy Yallop and Meng Wang
+
 #### 2021
 
 * **Type-safe generation of modules in applicative and generative styles** (GPCE 2021)  
@@ -22,6 +27,8 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
 * **Module Generation in Multi-Stage Programming** (Masters thesis)  
   ([dissertation](http://logic.cs.tsukuba.ac.jp/~yuhi/master-thesis.pdf))  
   by Yuhi Sato
+
+* **
 
 #### 2020
 
