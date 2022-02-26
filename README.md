@@ -2,11 +2,21 @@
 
 Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaocaml-bibliography/pulls) welcome!  Note: end a line with two spaces to force a line break.
 
+#### 2022
+
+* **Unified Program Generation and Verification: A Case Study on Number-Theoretic Transform** (FLOPS 2022)  
+  ([paper](http://www.cs.tsukuba.ac.jp/~kam/papers/flops2022-author-version.pdf))
+  ([code](https://github.com/masahi/nttverify))  
+  by Masahiro Masuda and Yukiyoshi Kameyama
+
+* **Generating C: System Description** (FLOPS 2022)  
+  by Oleg Kiselyov
+
 #### 2021
 
 * **Type-safe generation of modules in applicative and generative styles** (GPCE 2021)  
   ([paper](http://www.cs.tsukuba.ac.jp/~kam/papers/gpce2021.pdf))
-  ([BibTeX](https://dblp.org/rec/conf/gpce/SatoK21.html?view=bibtex))
+  ([BibTeX](https://dblp.org/rec/conf/gpce/SatoK21.html?view=bibtex))  
   by Yuhi Sato and Yukiyoshi Kameyama  
 
 * **Module Generation in Multi-Stage Programming** (Masters thesis)  
@@ -21,7 +31,7 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
   by Yuhi Sato, Yukiyoshi Kameyama and Takahisa Watanabe
 
 * **Session Types without Sophistry**  (FLOPS 2020)  
-  ([paper](http://okmij.org/ftp/meta-programming/sessions/description.pdf))  
+  ([paper](http://okmij.org/ftp/meta-programming/sessions/description.pdf))
   ([BibTeX](https://dblp.org/rec/bibtex/conf/flops/KiselyovI20))  
   by Oleg Kiselyov and Keigo Imai
 
