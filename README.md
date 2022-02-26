@@ -52,6 +52,7 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
   by Rui Ge and Ronald Garcia
 
 * **A Survey of Metaprogramming Languages** (CSUR, 2019)  
+  ([paper](https://dl.acm.org/doi/pdf/10.1145/3354584))
   ([BibTeX](https://dblp.uni-trier.de/rec/bibtex/journals/csur/LilisS20))  
   by Yannis Lilis and Anthony Savidis
 
