@@ -159,6 +159,10 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
 
 #### 2016
 
+* **Refining semantics for multi-stage programming** (Masters dissertation, 2016)  
+  ([dissertation](https://open.library.ubc.ca/media/download/pdf/24/1.0319338/4))  
+  by Rui Ge
+
 * **Refined Environment Classifiers: Type- and Scope-safe Code Generation with Mutable Cells** (APLAS 2016)  
   ([paper](http://okmij.org/ftp/tagless-final/TaglessStaged/master.pdf))
   ([BibTeX](https://dblp.org/rec/bibtex/conf/aplas/KiselyovKS16))  
