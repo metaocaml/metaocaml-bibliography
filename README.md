@@ -412,7 +412,8 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
   by Kedar Swadi, Walid Taha and Oleg Kiselyov
 
 * **Staged Computation with Names and Necessity** (JFP 2005)  
-  ([paper](https://www.cs.cmu.edu/~fp/papers/jfp05.pdf))  
+  ([paper](https://www.cs.cmu.edu/~fp/papers/jfp05.pdf))
+  ([BibTeX](https://dblp.org/rec/journals/jfp/NanevskiP05.html?view=bibtex))  
   by Aleksandar Nanevski and Frank Pfenning
 
 #### 2004
