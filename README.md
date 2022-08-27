@@ -10,6 +10,7 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
   by Masahiro Masuda and Yukiyoshi Kameyama
 
 * **Generating C: System Description** (FLOPS 2022)  
+  ([BibTeX](https://dblp.org/rec/conf/flops/Kiselyov22.html?view=bibtex))  
   by Oleg Kiselyov
 
 * **Staging with Class: A Specification for Typed Template Haskell** (POPL 2022)  
