@@ -483,6 +483,11 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
   ([BibTeX](https://dblp.uni-trier.de/rec/bibtex/conf/icfp/PasalicTS02))  
   by Emir Pasalic, Walid Taha and Tim Sheard
 
+* **Meta-programming with names and necessity** (ICFP 2002)  
+  ([paper](http://www.cs.cmu.edu/afs/cs.cmu.edu/Web/People/fp/papers/names03.pdf))
+  ([BibTeX](https://dblp.org/rec/conf/icfp/Nanevski02.html?view=bibtex))  
+  by Aleksandar Nanevski
+
 #### 2001
 
 * **Accomplishments and Research Challenges in Meta-programming** (SAIG 2001)  
