@@ -444,7 +444,7 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
 #### 2004
 
 * **Binding-Time Analysis for MetaML via Type Inference and Constraint Solving** (TACAS 2004)  
-  ([paper](https://pdfs.semanticscholar.org/9bc6/954a68e96ef09750b146879c4cf579aca206.pdf))
+  ([paper](https://link.springer.com/content/pdf/10.1007/978-3-540-24730-2_22.pdf))
   ([BibTeX](https://dblp.uni-trier.de/rec/bibtex/conf/tacas/LingerS04))  
   by Nathan Linger and Tim Sheard
 
@@ -487,7 +487,7 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
   by Cristiano Calcagno, Walid Taha, Liwen Huang and Xavier Leroy
 
 * **Staged Notational Definitions** (GPCE 2003)  
-  ([paper](https://cs.appstate.edu/~johannp/gpce03.pdf))
+  ([paper](https://libres.uncg.edu/ir/asu/f/Johann_Patricia_2003_Staged%20Notational%20Definitions.pdf))
   ([BibTeX](https://dblp.uni-trier.de/rec/bibtex/conf/gpce/TahaJ03))  
   by Walid Taha and Patricia Johann
 
@@ -581,7 +581,7 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
   by Tim Sheard
 
 * **Multi-Stage Programming: Axiomatization and Type-Safety** (ICALP 1998)  
-  ([paper](https://pdfs.semanticscholar.org/e6b9/c89f9d49e81b89cb15b988f1ade86f73ed63.pdf))
+  ([paper](https://github.com/maroneal/www/raw/master/publications/conference/icalp98.pdf))
   ([BibTeX](https://dblp.uni-trier.de/rec/bibtex/conf/icalp/TahaBS98))  
   by Walid Taha, Zine-El-Abidine Benaissa and Tim Sheard
 
