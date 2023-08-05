@@ -2,7 +2,32 @@
 
 Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaocaml-bibliography/pulls) welcome!  Note: end a line with two spaces to force a line break.
 
+#### 2023
+
+* **MetaOCaml Theory and Implementation** (OCaml 2023)  
+  ([paper](https://icfp23.sigplan.org/details?action-call-with-get-request-type=1&3bc77d800d874af6a3c7584474282f65action_17426506610a8da7421c2b887404d1d1d86a0d5ede9=1&__ajax_runtime_request__=1&context=icfp-2023&track=ocaml-2023-papers&urlKey=3&decoTitle=MetaOCaml-Theory-and-Implementation))  
+  by Oleg Kiselyov
+
+* **Safe and efficient generic functions with MacoCaml** (OCaml 2023)  
+  ([paper](https://www.cl.cam.ac.uk/~jdy22/papers/safe-and-efficient-generic-functions-with-macocaml.pdf))
+  ([code](https://gist.github.com/yallop/34f2adf63d0c0b82ab849b7fda7ff3ee))  
+  by Dmitrij Szamozvancev, Leo White, Ningning Xie and Jeremy Yallop
+
+* **MacoCaml: Staging Composable and Compilable Macros** (ICFP 2023)  
+  ([paper](https://www.cl.cam.ac.uk/~jdy22/papers/macocaml-staging-composable-and-compilable-macros.pdf))  
+  by Ningning Xie, Leo White, Olivier Nicole and Jeremy Yallop
+
+* **flap: A Deterministic Parser with Fused Lexing** (PLDI 2023)  
+  ([paper](https://www.cl.cam.ac.uk/~jdy22/papers/flap-a-deterministic-parser-with-fused-lexing.pdf))
+  ([code](https://github.com/yallop/ocaml-flap))  
+  by Jeremy Yallop, Ningning Xie and Neel Krishnaswami
+
 #### 2022
+
+* **Highest-performance Stream Processing** (OCaml 2022)  
+  ([paper](https://okmij.org/ftp/meta-programming/strymonasv2-intro.pdf))
+  ([code](https://github.com/strymonas/strymonas-ocaml/))  
+  by Oleg Kiselyov, Tomoaki Kobayashi, Aggelos Biboudis, Nick Palladinos
 
 * **Unified Program Generation and Verification: A Case Study on Number-Theoretic Transform** (FLOPS 2022)  
   ([paper](http://www.cs.tsukuba.ac.jp/~kam/papers/flops2022-author-version.pdf))
