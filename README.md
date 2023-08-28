@@ -23,6 +23,10 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
   ([code](https://github.com/yallop/ocaml-flap))  
   by Jeremy Yallop, Ningning Xie and Neel Krishnaswami
 
+* **Generating Programs for Polynomial Multiplication with Correctness Assurance** (PEPM 2023)  
+  ([BibTeX](https://dblp.org/rec/conf/pepm/TokudaK23.html?view=bibtex))  
+  by Ryo Tokuda and Yukiyoshi Kameyama
+
 #### 2022
 
 * **Highest-performance Stream Processing** (OCaml 2022)  
