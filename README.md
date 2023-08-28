@@ -48,6 +48,10 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
   ([BibTeX](https://dblp.uni-trier.de/rec/journals/pacmpl/XiePLWYW22.html?view=bibtex))  
   by Ningning Xie, Matthew Pickering, Andres Löh, Nicolas Wu, Jeremy Yallop and Meng Wang
 
+* **let (rec) insertion without effects, lights or magic (short paper)** (PEPM 2022)  
+  ([paper](https://www.cl.cam.ac.uk/~jdy22/papers/let-rec-insertion-without-effects-lights-or-magic-pepm.pdf))  
+  by Oleg Kiselyov and Jeremy Yallop
+
 #### 2021
 
 * **Type-safe generation of modules in applicative and generative styles** (GPCE 2021)  
