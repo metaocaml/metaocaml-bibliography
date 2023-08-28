@@ -19,6 +19,7 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
 
 * **flap: A Deterministic Parser with Fused Lexing** (PLDI 2023)  
   ([paper](https://www.cl.cam.ac.uk/~jdy22/papers/flap-a-deterministic-parser-with-fused-lexing.pdf))
+  ([BibTeX](https://dblp.org/rec/journals/pacmpl/YallopXK23.html?view=bibtex))
   ([code](https://github.com/yallop/ocaml-flap))  
   by Jeremy Yallop, Ningning Xie and Neel Krishnaswami
 
