@@ -530,7 +530,7 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
   by Walid Taha and Michael Florentin Nielsen
 
 * **An Efficient Staging Algorithm for Binding-Time Analysis** (LOPSTR 2003)  
-  ([paper](http://research.nii.ac.jp/~hu/pub/lopstr03-murakami.pdf))
+  ([paper](https://zhenjiang888.github.io/pub/lopstr03-murakami.pdf))
   ([BibTeX](https://dblp.org/rec/bibtex/conf/lopstr/MurakamiHKT03))  
   by Takuma Murakami, Zhenjiang Hu, Kazuhiko Kakehi and Masato Takeichi
 
