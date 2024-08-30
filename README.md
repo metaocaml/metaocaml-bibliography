@@ -2,6 +2,30 @@
 
 Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaocaml-bibliography/pulls) welcome!  Note: end a line with two spaces to force a line break.
 
+#### 2024
+
+* **Staged Compilation with Module Functors** (ICFP 2024)  
+  ([paper](https://www.cl.cam.ac.uk/~jdy22/papers/staged-compilation-with-module-functors.pdf))  
+  by Tsung-Ju Chiang, Jeremy Yallop, Leo White and Ningning Xie
+
+* **Safe Pattern Generation for Multi-Stage Programming** (ML 2024)  
+  ([extended abstract](https://www.cl.cam.ac.uk/~jdy22/papers/safe-pattern-generation-for-multi-stage-programming.pdf))
+  ([code](https://github.com/ethanrange/safe-pattern-generation))  
+  by Ethan Range and Jeremy Yallop  
+
+* **MetaOCaml: Ten Years Later (System Description)** (FLOPS 2024)  
+  ([BibTeX](https://dblp.org/rec/conf/flops/Kiselyov24.html?view=bibtex))  
+  by Oleg Kiselyov
+
+* **An ML-Style Module System for Cross-Stage Type Abstraction in Multi-stage Programming** (FLOPS 2024)  
+  ([paper](https://link.springer.com/content/pdf/10.1007/978-981-97-2300-3_13))
+  ([BibTeX](https://dblp.org/rec/conf/flops/SuwaI24.html?view=bibtex))  
+  by Takashi Suwa and Atsushi Igarashi
+
+* **Generating C: Heterogeneous metaprogramming system description** (SCP 2024)  
+  ([BibTeX](https://dblp.org/rec/journals/scp/Kiselyov24.html?view=bibtex))  
+  by Oleg Kiselyov
+
 #### 2023
 
 * **MetaOCaml Theory and Implementation** (OCaml 2023)  
