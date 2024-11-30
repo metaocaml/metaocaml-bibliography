@@ -4,6 +4,10 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
 
 #### 2024
 
+* **Type-Safe Code Generation with Algebraic Effects and Handlers** (GPCE 2024)  
+  ([paper](http://www.cs.tsukuba.ac.jp/~kam/papers/gpce2024.pdf))  
+  by Kanaru Isoda, Ayato Yokoyama and Yukiyoshi Kameyama
+
 * **Staged Compilation with Module Functors** (ICFP 2024)  
   ([paper](https://www.cl.cam.ac.uk/~jdy22/papers/staged-compilation-with-module-functors.pdf))  
   by Tsung-Ju Chiang, Jeremy Yallop, Leo White and Ningning Xie
