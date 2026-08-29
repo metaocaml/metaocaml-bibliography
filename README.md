@@ -2,6 +2,40 @@
 
 Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaocaml-bibliography/pulls) welcome!  Note: end a line with two spaces to force a line break.
 
+#### 2025
+
+* **Multi-stage Programming with Splice Variables** (ICFP 2025)  
+  ([paper](https://xnning.github.io/papers/icfp25splice.pdf))
+  ([BibTeX](https://dblp.org/rec/journals/pacmpl/ChiangX25.html?view=bibtex))
+  ([artifact](https://zenodo.org/records/15719807))  
+  by Tsung-Ju Chiang and Ningning Xie
+
+* **Staging Automatic Differentiation with Fusion** (Haskell 2025)  
+  ([BibTeX](https://dblp.org/rec/conf/haskell/KlumpersS25.html?view=bibtex))  
+  by Samuel Klumpers and Tom Schrijvers
+
+* **A Pair of tricks** (OlivierFest 2025)  
+  ([paper](https://okmij.org/ftp/meta-programming/trick.pdf))  
+  by Oleg Kiselyov
+
+* **MAYUZIN: Runtime Generative and Analytical Metaprogramming** (JIP 2025)  
+  ([paper](https://www.jstage.jst.go.jp/article/ipsjjip/33/0/33_461/_pdf))  
+  by Ya Mone Zin and Yukiyoshi Kameyama
+
+* **Staged Gradual Typing** (GPCE 2025)  
+  ([paper](http://www.cs.tsukuba.ac.jp/~kam/papers/gpce2025.pdf))
+  ([BibTeX](https://dblp.org/rec/conf/gpce/YaguchiK25.html?view=bibtex))  
+  by Hiroto Yaguchi and Yukiyoshi Kameyama
+
+* **Explicit Level Imports** (TFP 2025)  
+  ([paper](https://mpickering.github.io/papers/explicit-level-imports.pdf))
+  ([BibTeX](https://dblp.org/rec/conf/sfp/PickeringMG25.html?view=bibtex))  
+  by Matthew Pickering, Rodrigo Mesquita and Adam Gundry
+
+* **Typed Meta-Programming with Splice Variables** (Masters thesis)  
+  ([dissertation](https://tsung-ju.org/masters-thesis/thesis.pdf))  
+  by Tsung-Ju Chiang
+
 #### 2024
 
 * **Type-Safe Code Generation with Algebraic Effects and Handlers** (GPCE 2024)  
