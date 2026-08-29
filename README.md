@@ -313,7 +313,7 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
 #### 2013
 
 * **Shonan Challenge for Generative Programming** (PEPM 2013)  
-  ([paper](http://logic.cs.tsukuba.ac.jp/~kam/paper/pepm2013.pdf))
+  ([paper](http://www.cs.tsukuba.ac.jp/~kam/papers/pepm2013.pdf))
   ([BibTeX](https://dblp.org/rec/bibtex/conf/pepm/AktemurKKS13))  
   by Baris Aktemur, Yukiyoshi Kameyama, Oleg Kiselyov and Chung-chieh Shan
 
