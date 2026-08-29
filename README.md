@@ -109,7 +109,7 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
   by Matthew Pickering, Andres Löh and Nicolas Wu 
   
 * **Staged Selective Parser Combinators**  (ICFP 2020)  
-  ([paper](https://dl.acm.org/doi/pdf/10.1145/3409002))
+  ([paper](https://mpickering.github.io/papers/parsley-icfp.pdf))
   ([BibTeX](https://dblp.org/rec/journals/pacmpl/WillisWP20.html?view=bibtex))  
   by Jamie Willis, Nicolas Wu and Matthew Pickering
 
