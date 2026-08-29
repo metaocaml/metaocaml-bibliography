@@ -88,7 +88,7 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
   by Yuhi Sato and Yukiyoshi Kameyama  
 
 * **Module Generation in Multi-Stage Programming** (Masters thesis)  
-  ([dissertation](http://logic.cs.tsukuba.ac.jp/~yuhi/master-thesis.pdf))  
+  ([dissertation](https://www.logic.cs.tsukuba.ac.jp/~yuhi/master-thesis.pdf))  
   by Yuhi Sato
 
 #### 2020
