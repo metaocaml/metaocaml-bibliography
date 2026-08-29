@@ -87,6 +87,11 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
   ([BibTeX](https://dblp.org/rec/conf/gpce/SatoK21.html?view=bibtex))  
   by Yuhi Sato and Yukiyoshi Kameyama  
 
+* **Multi-stage programming with generative and analytical macros** (GPCE 2021)  
+  ([BibTeX](https://dblp.org/rec/conf/gpce/StuckiBO21.html?view=bibtex))
+  ([proofs](https://infoscience.epfl.ch/bitstreams/77027189-d62f-432a-ba43-73e7c66f3e53/download))  
+  by Nicolas Stucki, Jonathan Immanuel Brachthäuser and Martin Odersky
+
 * **Module Generation in Multi-Stage Programming** (Masters thesis)  
   ([dissertation](https://www.logic.cs.tsukuba.ac.jp/~yuhi/master-thesis.pdf))  
   by Yuhi Sato
