@@ -444,7 +444,7 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
   by Gregory Neverov and Paul Roe
 
 * **In search of a program generator to implement generic transformations for high-performance computing** (SCP 2006)  
-  ([paper](https://core.ac.uk/download/pdf/82484798.pdf))
+  ([paper](https://okmij.org/ftp/meta-programming/SCP-search.pdf))
   ([BibTeX](https://dblp.org/rec/bibtex/journals/scp/CohenDGHKP06))  
   by Albert Cohen, Sébastien Donadio, Maria-Jesus Garzaran, Christoph Herrmann, Oleg Kiselyov, David Paduac
 
