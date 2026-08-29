@@ -2,6 +2,77 @@
 
 Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaocaml-bibliography/pulls) welcome!  Note: end a line with two spaces to force a line break.
 
+#### 2026
+
+* **Refined² Environment Classifiers** (OOPSLA 2026)  
+  ([paper](https://arxiv.org/pdf/2608.07888))
+  ([artifact](https://zenodo.org/records/22072697))  
+  by Yuito Murase and Atsushi Igarashi
+
+* **When Do Staging Annotations Preserve Semantics? Mechanizing the Metatheory of Automatic Let-Insertion in Typed Multi-Stage Programming** (OOPSLA 2026)  
+  ([paper](https://arxiv.org/pdf/2606.30854))
+  ([code](https://github.com/instar-lang/mechanization/tree/oopsla26))  
+  by Jun Tan and Guannan Wei
+
+* **Let It Be Optimized: Building Multi-stage Evaluators with Let-Insertion and Optimizations in Small Pieces (Functional Pearl)** (ICFP 2026)  
+  ([paper](https://continuation.passing.style/static/papers/pearl26.pdf))
+  ([BibTeX](https://dblp.org/rec/journals/pacmpl/WeiTZ26.html?view=bibtex))
+  ([code](https://github.com/instar-lang/instar-lang/tree/icfp26))  
+  by Guannan Wei, Jun Tan and Dinghong Zhong
+
+* **Contextual MetaML: Syntax and Full Abstraction** (LICS 2026)  
+  ([paper](https://drops.dagstuhl.de/storage/00lipics/lipics-vol380-lics2026/LIPIcs.LICS.2026.83/LIPIcs.LICS.2026.83.pdf))
+  ([BibTeX](https://dblp.org/rec/conf/lics/YinMO26.html?view=bibtex))  
+  by Haoxuan Yin, Andrzej S. Murawski and C.-H. Luke Ong
+
+* **Compile-Time Tensor Shape Checking via Staged Shape-Dependent Types** (ECOOP 2026)  
+  ([paper](https://drops.dagstuhl.de/storage/00lipics/lipics-vol372-ecoop2026/LIPIcs.ECOOP.2026.28/LIPIcs.ECOOP.2026.28.pdf))
+  ([BibTeX](https://dblp.org/rec/conf/ecoop/SuwaI26.html?view=bibtex))
+  ([artifact](https://doi.org/10.4230/DARTS.12.1.14))  
+  by Takashi Suwa and Atsushi Igarashi
+
+* **Mechanised Semantics of Multi-stage Programming** (OOPSLA 2026)  
+  ([paper](https://www.cl.cam.ac.uk/~jdy22/papers/mechanised-semantics-of-multi-stage-programming.pdf))
+  ([BibTeX](https://dblp.org/rec/journals/pacmpl/LiKXY26.html?view=bibtex))
+  ([artifact](https://zenodo.org/records/18307307))  
+  by Ka Wing Li, Maite Kramarz, Ningning Xie and Jeremy Yallop
+
+* **Fail Faster: Staging and Fast Randomness for High-Performance PBT** (OOPSLA 2026)  
+  ([paper](https://arxiv.org/pdf/2503.19797))
+  ([BibTeX](https://dblp.org/rec/journals/pacmpl/RicheyCGP26.html?view=bibtex))
+  ([code](https://github.com/vee-effekt/ff_artifact))  
+  by Cynthia Richey, Joseph W. Cutler, Harrison Goldstein and Benjamin C. Pierce
+
+* **Handling Scope Checks: A Comparative Framework for Dynamic Scope Extrusion Checks** (POPL 2026)  
+  ([paper](https://www.cl.cam.ac.uk/~jdy22/papers/handling-scope-checks.pdf))
+  ([BibTeX](https://dblp.org/rec/journals/pacmpl/LeeXKY26.html?view=bibtex))
+  ([artifact](https://zenodo.org/records/17273738))  
+  by Michael Lee, Ningning Xie, Oleg Kiselyov and Jeremy Yallop
+
+* **Staging Effect Handlers for Modular Search** (PEPM 2026)  
+  ([paper](https://lirias.kuleuven.be/retrieve/34141969-e0b0-40c5-a0ef-cc96c8165f9e))
+  ([BibTeX](https://dblp.org/rec/conf/pepm/TrifanovS26.html?view=bibtex))  
+  by Alexandru Trifanov and Tom Schrijvers
+
+* **MetaOCaml: ten years later – System description** (SCP 2026)  
+  ([paper](https://okmij.org/ftp/meta-programming/design-10.pdf))
+  ([BibTeX](https://dblp.org/rec/journals/scp/Kiselyov26.html?view=bibtex))  
+  by Oleg Kiselyov
+
+* **An ML-style module system for cross-stage type abstraction in multi-stage programming** (SCP 2026)  
+  ([BibTeX](https://dblp.org/rec/journals/scp/SuwaI26.html?view=bibtex))  
+  by Takashi Suwa and Atsushi Igarashi
+
+* **Taming Scope Extrusion in Gradual Imperative Metaprogramming** (arXiv draft)  
+  ([paper](https://arxiv.org/pdf/2602.19951))
+  ([BibTeX](https://dblp.org/rec/journals/corr/abs-2602-19951.html?view=bibtex))  
+  by Tianyu Chen, Darshal Shetty, Jeremy G. Siek, Chao-Hong Chen, Weixi Ma, Arnaud Venet and Rocky Liu
+
+* **Bounded Modal Logic: Explicit Scope Dependencies in Multi-Stage Programming** (arXiv draft)  
+  ([paper](https://arxiv.org/pdf/2602.09462))
+  ([BibTeX](https://dblp.org/rec/journals/corr/abs-2602-09462.html?view=bibtex))  
+  by Yuito Murase and Akinori Maniwa
+
 #### 2025
 
 * **Multi-stage Programming with Splice Variables** (ICFP 2025)  
