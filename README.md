@@ -237,7 +237,7 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
   by Jun Inoue and Walid Taha
 
 * **Staging Beyond Terms: Prospects and Challenges** (PEPM 2016)  
-  ([paper](http://logic.cs.tsukuba.ac.jp/~kam/paper/pepm2016b.pdf))
+  ([paper](http://www.cs.tsukuba.ac.jp/~kam/papers/pepm2016b.pdf))
   ([BibTeX](https://dblp.org/rec/bibtex/conf/pepm/InoueKK16))  
   by Jun Inoue, Oleg Kiselyov and Yukiyoshi Kameyama
 
