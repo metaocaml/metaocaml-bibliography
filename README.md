@@ -55,6 +55,10 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
   ([BibTeX](https://dblp.org/rec/conf/pepm/TokudaK23.html?view=bibtex))  
   by Ryo Tokuda and Yukiyoshi Kameyama
 
+* **Scalable Metaprogramming in Scala 3** (PhD thesis)  
+  ([dissertation](https://infoscience.epfl.ch/entities/publication/6dd02f9b-1f9b-4c9c-9748-ddf1634c1630))  
+  by Nicolas Stucki
+
 #### 2022
 
 * **Highest-performance Stream Processing** (OCaml 2022)  
