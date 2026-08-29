@@ -470,7 +470,7 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
   by Christoph A. Herrmann
 
 * **Staging Dynamic Programming Algorithms** (Unpublished)  
-  ([paper](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=c47ffa2658e22d623459cdf0327c64be2ea9bf49))  
+  ([paper](https://github.com/maroneal/www/raw/master/publications/preprints/2005-04-13.pdf))  
   by Kedar Swadi, Walid Taha and Oleg Kiselyov
 
 * **Staged Computation with Names and Necessity** (JFP 2005)  
