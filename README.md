@@ -62,6 +62,12 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
   ([code](https://github.com/strymonas/strymonas-ocaml/))  
   by Oleg Kiselyov, Tomoaki Kobayashi, Aggelos Biboudis, Nick Palladinos
 
+* **Staged Compilation with Two-Level Type Theory** (ICFP 2022)  
+  ([paper](https://andraskovacs.github.io/pdfs/2ltt.pdf))
+  ([BibTeX](https://dblp.org/rec/journals/pacmpl/Kovacs22.html?view=bibtex))
+  ([code](https://github.com/AndrasKovacs/staged))  
+  by András Kovács
+
 * **Unified Program Generation and Verification: A Case Study on Number-Theoretic Transform** (FLOPS 2022)  
   ([paper](http://www.cs.tsukuba.ac.jp/~kam/papers/flops2022-author-version.pdf))
   ([code](https://github.com/masahi/nttverify))  
