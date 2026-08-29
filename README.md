@@ -12,6 +12,12 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
   ([paper](https://www.cl.cam.ac.uk/~jdy22/papers/staged-compilation-with-module-functors.pdf))  
   by Tsung-Ju Chiang, Jeremy Yallop, Leo White and Ningning Xie
 
+* **Closure-Free Functional Programming in a Two-Level Type Theory** (ICFP 2024)  
+  ([paper](https://andraskovacs.github.io/pdfs/2ltt_icfp24.pdf))
+  ([BibTeX](https://dblp.org/rec/journals/pacmpl/Kovacs24.html?view=bibtex))
+  ([code](https://github.com/AndrasKovacs/staged))  
+  by András Kovács
+
 * **Safe Pattern Generation for Multi-Stage Programming** (ML 2024)  
   ([extended abstract](https://www.cl.cam.ac.uk/~jdy22/papers/safe-pattern-generation-for-multi-stage-programming.pdf))
   ([code](https://github.com/ethanrange/safe-pattern-generation))  
@@ -26,9 +32,29 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
   ([BibTeX](https://dblp.org/rec/conf/flops/SuwaI24.html?view=bibtex))  
   by Takashi Suwa and Atsushi Igarashi
 
+* **Complete Stream Fusion for Software-Defined Radio** (PEPM 2024)  
+  ([paper](https://okmij.org/ftp/meta-programming/SDR.pdf))
+  ([BibTeX](https://dblp.org/rec/conf/pepm/0001K24.html?view=bibtex))
+  ([code](https://github.com/strymonas/strymonas-ocaml/))  
+  by Tomoaki Kobayashi and Oleg Kiselyov
+
+* **Scoped and Typed Staging by Evaluation** (PEPM 2024)  
+  ([paper](https://strathprints.strath.ac.uk/88083/1/Allais-PEPM-2024-Scoped-and-typed-staging-by-evaluation.pdf))
+  ([BibTeX](https://dblp.org/rec/conf/pepm/Allais24.html?view=bibtex))  
+  by Guillaume Allais
+
 * **Generating C: Heterogeneous metaprogramming system description** (SCP 2024)  
   ([BibTeX](https://dblp.org/rec/journals/scp/Kiselyov24.html?view=bibtex))  
   by Oleg Kiselyov
+
+* **Program generation meets program verification: A case study on number-theoretic transform** (SCP 2024)  
+  ([BibTeX](https://dblp.org/rec/journals/scp/MasudaK24.html?view=bibtex))
+  ([code](https://github.com/masahi/nttverify))  
+  by Masahiro Masuda and Yukiyoshi Kameyama
+
+* **Parsley: Optimising and Improving Parser Combinators** (PhD thesis)  
+  ([dissertation](https://spiral.imperial.ac.uk/bitstreams/f949b93c-90ac-4208-adba-07fe0bd30992/download))  
+  by Jamie Willis
 
 #### 2023
 
