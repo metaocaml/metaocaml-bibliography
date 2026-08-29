@@ -451,7 +451,7 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
 #### 2005
 
 * **Towards a fully-reflective meta-programming language** (ACSC 2005)  
-  ([paper](https://crpit.scem.westernsydney.edu.au/confpapers/CRPITV38Neverov.pdf))
+  ([paper](http://web.archive.org/web/20221010214546/https://crpit.scem.westernsydney.edu.au/confpapers/CRPITV38Neverov.pdf))
   ([BibTeX](https://dblp.uni-trier.de/rec/bibtex/conf/acsc/NeverovR05))  
   by Gregory Neverov and Paul Roe
 
