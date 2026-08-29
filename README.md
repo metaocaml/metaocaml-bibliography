@@ -351,7 +351,7 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
   by Jacques Carette and Oleg Kiselyov
 
 * **Shifting the Stage: staging with delimited control** (JFP 2011)  
-  ([paper](http://homes.soic.indiana.edu/ccshan/metafx/S0956796811000256a.pdf))
+  ([paper](http://www.cs.tsukuba.ac.jp/~kam/papers/jfp2012.pdf))
   ([BibTeX](https://dblp.org/rec/bibtex/conf/pepm/KameyamaKS09))  
   by Yukiyoshi Kameyama, Oleg Kiselyov and Chung-chieh Shan
 
