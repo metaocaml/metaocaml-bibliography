@@ -629,4 +629,4 @@ Currently very incomplete.  [Pull requests](https://github.com/metaocaml/metaoca
   by Walid Taha and Tim Sheard
 
 
-Status of links at last commit: ![Build Status](https://github.com/metaocaml/metaocaml-bibliography/workflows/checklinks/badge.svg)
+Status of links at last commit: [![Links](https://github.com/metaocaml/metaocaml-bibliography/actions/workflows/checklinks.yml/badge.svg)](https://github.com/metaocaml/metaocaml-bibliography/actions/workflows/checklinks.yml)
